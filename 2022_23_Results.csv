@@ -1,0 +1,885 @@
+Athlete Place,Athlete Name,Athlete Gender,Clock Time,Handicap,Run Time,Avg Pace,Points,Run ClassID,Run Length,Run Distance,Run Location,Run Date,Run Time (s),Clock Time (s),Handicap (s),Avg Pace (s),Athlete Intials,Total Points
+,Lewis Metcalfe,M,,,17:45,5:55,50.0,ig1-0,Short,3,Peace Park ,2022-08-31,1065,,,355,L M,50.0
+,Timothy  Marsland,M,,,18:01,6:00,49.0,ig1-0,Short,3,Peace Park ,2022-08-31,1081,,,360,T M,49.0
+,Isla Petersen,F,,,21:18,7:06,48.0,ig1-0,Short,3,Peace Park ,2022-08-31,1278,,,426,I P,48.0
+,Hazel  Metcalfe,F,,,21:40,7:13,47.0,ig1-0,Short,3,Peace Park ,2022-08-31,1300,,,433,H M,47.0
+,Amy Petersen,F,,,21:44,7:15,46.0,ig1-0,Short,3,Peace Park ,2022-08-31,1304,,,435,A P,46.0
+,Keanan  Kinsley-Cook,M,,,22:53,7:38,45.0,ig1-0,Short,3,Peace Park ,2022-08-31,1373,,,458,K K,45.0
+,Jessica  Vanderkroft ,F,,,23:58,7:59,44.0,ig1-0,Short,3,Peace Park ,2022-08-31,1438,,,479,J V,44.0
+,Abbie Bagnall,F,,,26:00,8:40,43.0,ig1-0,Short,3,Peace Park ,2022-08-31,1560,,,520,A B,43.0
+,Abby Prater,F,,,27:27,9:09,42.0,ig1-0,Short,3,Peace Park ,2022-08-31,1647,,,549,A P,42.0
+,Finn McNeill,M,,,27:38,9:13,41.0,ig1-0,Short,3,Peace Park ,2022-08-31,1658,,,553,F M,41.0
+,Robert  Campbell,M,,,27:41,9:14,40.0,ig1-0,Short,3,Peace Park ,2022-08-31,1661,,,554,R C,40.0
+,Scott Campbell,M,,,27:46,9:15,39.0,ig1-0,Short,3,Peace Park ,2022-08-31,1666,,,555,S C,39.0
+,Murray Marsland,M,,,32:35,10:52,38.0,ig1-0,Short,3,Peace Park ,2022-08-31,1955,,,652,M M,38.0
+,Alice Jackson,F,,,34:06,11:22,37.0,ig1-0,Short,3,Peace Park ,2022-08-31,2046,,,682,A J,37.0
+,DAVID BROOKS,M,,,34:15,11:25,36.0,ig1-0,Short,3,Peace Park ,2022-08-31,2055,,,685,D B,36.0
+,Marshall  Campbell ,M,,,34:24,11:28,35.0,ig1-0,Short,3,Peace Park ,2022-08-31,2064,,,688,M C,35.0
+,Allison Campbell,F,,,34:25,11:28,34.0,ig1-0,Short,3,Peace Park ,2022-08-31,2065,,,688,A C,34.0
+,Kathleen March***,F,,,42:03,14:01,33.0,ig1-0,Short,3,Peace Park ,2022-08-31,2523,,,841,K M,33.0
+,Luna McNeill,F,,,44:51,14:57,32.0,ig1-0,Short,3,Peace Park ,2022-08-31,2691,,,897,L M,32.0
+,Louise McNeill,F,,,44:52,14:57,31.0,ig1-0,Short,3,Peace Park ,2022-08-31,2692,,,897,L M,31.0
+,Neil Chappell,M,,,51:41,17:14,30.0,ig1-0,Short,3,Peace Park ,2022-08-31,3101,,,1034,N C,30.0
+,Melissa Ralph,F,,,26:47,5:21,50.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1607,,,321,M R,50.0
+,Michael  Hay ,M,,,26:48,5:22,49.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1608,,,322,M H,49.0
+,Jeremy Campbell,M,,,27:27,5:29,48.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1647,,,329,J C,48.0
+,Ann-Maree  Campbell ,F,,,27:49,5:34,47.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1669,,,334,A C,47.0
+,Sebastian Hoffman,M,,,28:07,5:37,46.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1687,,,337,S H,46.0
+,Fiona Reynolds,F,,,28:49,5:46,45.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1729,,,346,F R,45.0
+,Liam Mullaly,M,,,29:38,5:56,44.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1778,,,356,L M,44.0
+,Peter Blansjaar,M,,,29:42,5:56,43.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1782,,,356,P B,43.0
+,Trey Hunter,M,,,29:56,5:59,42.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1796,,,359,T H,42.0
+,Emma Nevin,F,,,30:01,6:00,41.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1801,,,360,E N,41.0
+,Kathleen Robinson,F,,,30:50,6:10,40.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1850,,,370,K R,40.0
+,Tess Madeley,F,,,31:11,6:14,39.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1871,,,374,T M,39.0
+,Sarah Tyrrell,F,,,32:57,6:35,38.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1977,,,395,S T,38.0
+,Bonnie Lau,F,,,32:58,6:36,37.0,ig1-1,Medium,5,Peace Park ,2022-08-31,1978,,,396,B L,37.0
+,Petro Holowinskyj,M,,,34:40,6:56,36.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2080,,,416,P H,36.0
+,Jessica Locock,F,,,34:44,6:57,35.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2084,,,417,J L,35.0
+,Cassandra Thompson,F,,,36:48,7:22,34.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2208,,,442,C T,34.0
+,Joanne Marsland,F,,,38:09,7:38,33.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2289,,,458,J M,33.0
+,Sinead Mullaly,F,,,38:22,7:40,32.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2302,,,460,S M,32.0
+,Ella Gilbert,F,,,41:07,8:13,31.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2467,,,493,E G,31.0
+,Melissa Hoffman,F,,,41:07,8:13,30.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2467,,,493,M H,30.0
+,Mellissa Mullaly,F,,,42:31,8:30,29.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2551,,,510,M M,29.0
+,William Holland,M,,,43:42,8:44,28.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2622,,,524,W H,28.0
+,Christine Bates,F,,,44:13,8:51,27.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2653,,,531,C B,27.0
+,Justine Manners,F,,,45:22,9:04,26.0,ig1-1,Medium,5,Peace Park ,2022-08-31,2722,,,544,J M,26.0
+,John Simmons,M,,,50:50,10:10,25.0,ig1-1,Medium,5,Peace Park ,2022-08-31,3050,,,610,J S,25.0
+,Tony Howard,M,,,55:17,11:03,24.0,ig1-1,Medium,5,Peace Park ,2022-08-31,3317,,,663,T H,24.0
+,Peter Reynolds,M,,,55:19,11:04,23.0,ig1-1,Medium,5,Peace Park ,2022-08-31,3319,,,664,P R,23.0
+,Darren Layt,M,,,43:47,4:23,50.0,ig1-2,Long,10,Peace Park ,2022-08-31,2627,,,263,D L,50.0
+,Shayne  Pilgrim ***,M,,,46:32,4:39,49.0,ig1-2,Long,10,Peace Park ,2022-08-31,2792,,,279,S P *,49.0
+,Mark Marsland,M,,,46:53,4:41,48.0,ig1-2,Long,10,Peace Park ,2022-08-31,2813,,,281,M M,48.0
+,Jeremy  White,M,,,54:54,5:29,47.0,ig1-2,Long,10,Peace Park ,2022-08-31,3294,,,329,J W,47.0
+,Ethan  Fellows ,M,,,54:55,5:30,46.0,ig1-2,Long,10,Peace Park ,2022-08-31,3295,,,330,E F,46.0
+,Ian  Olsen,M,,,57:21,5:44,45.0,ig1-2,Long,10,Peace Park ,2022-08-31,3441,,,344,I O,45.0
+,TONY FARNHAM,M,,,1:00:11,6:01,44.0,ig1-2,Long,10,Peace Park ,2022-08-31,3611,,,361,T F,44.0
+,Chris Jardine,M,,,1:02:02,6:12,43.0,ig1-2,Long,10,Peace Park ,2022-08-31,3722,,,372,C J,43.0
+,Mitch Bromage,M,,,1:02:13,6:13,42.0,ig1-2,Long,10,Peace Park ,2022-08-31,3733,,,373,M B,42.0
+,Rohan Vowles,M,,,1:04:18,6:26,41.0,ig1-2,Long,10,Peace Park ,2022-08-31,3858,,,386,R V,41.0
+,Julia Ryl,F,,,,,50.0,g1-3,,,Peace Park ,2022-08-31,,,,,J R,50.0
+,Jennifer  Collado,F,,,,,50.0,g1-3,,,Peace Park ,2022-08-31,,,,,J C,50.0
+,Lewis Metcalfe,M,,,17:04,6:12,50.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,1024,,,372,L M,100.0
+,Hazel  Metcalfe,F,,,17:30,6:22,49.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,1050,,,382,H M,96.0
+,Keanan  Kinsley-Cook,M,,,18:36,6:46,48.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,1116,,,406,K K,93.0
+,Jessica  Vanderkroft ,F,,,19:24,7:03,47.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,1164,,,423,J V,91.0
+,Abby Prater,F,,,23:34,8:34,46.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,1414,,,514,A P,88.0
+,Finn McNeill,M,,,23:45,8:38,45.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,1425,,,518,F M,86.0
+,Robert  Campbell,M,,,30:24,11:03,44.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,1824,,,663,R C,84.0
+,Marshall  Campbell ,M,,,32:00,11:38,43.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,1920,,,698,M C,78.0
+,Allison Campbell,F,,,32:00,11:38,42.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,1920,,,698,A C,76.0
+,Luna McNeill,F,,,39:39,14:25,41.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,2379,,,865,L M,73.0
+,Louise McNeill,F,,,39:39,14:25,40.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,2379,,,865,L M,71.0
+,Neil Chappell,M,,,45:55,16:42,39.0,ig1-0,Short,2.75,Peace Park ,2022-09-07,2755,,,1002,N C,69.0
+,Jeremy Campbell,M,,,22:18,4:42,50.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1338,,,282,J C,98.0
+,Timothy  Marsland,M,,,25:33,5:23,49.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1533,,,323,T M,98.0
+,Fiona Reynolds,F,,,25:40,5:24,48.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1540,,,324,F R,93.0
+,Liam Mullaly,M,,,26:17,5:32,47.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1577,,,332,L M,91.0
+,Peter Blansjaar,M,,,26:54,5:40,46.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1614,,,340,P B,89.0
+,Leslie Bates,M,,,28:56,6:05,45.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1736,,,365,L B,45.0
+,William Holland,M,,,29:09,6:08,44.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1749,,,368,W H,72.0
+,Mitch Bromage,M,,,29:17,6:10,43.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1757,,,370,M B,85.0
+,Sophie Prater,F,,,30:05,6:20,42.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1805,,,380,S P,42.0
+,Petro Holowinskyj,M,,,30:06,6:20,41.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1806,,,380,P H,77.0
+,Alice Jackson,F,,,30:46,6:29,40.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,1846,,,389,A J,77.0
+,Sinead Mullaly,F,,,34:30,7:16,39.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2070,,,436,S M,71.0
+,Jennifer  Collado,F,,,35:16,7:25,38.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2116,,,445,J C,88.0
+,Ella Gilbert,F,,,35:17,7:26,37.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2117,,,446,E G,68.0
+,Melissa Hoffman,F,,,35:18,7:26,36.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2118,,,446,M H,66.0
+,Tony Howard,M,,,35:55,7:34,35.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2155,,,454,T H,59.0
+,Christine Bates,F,,,37:44,7:57,34.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2264,,,477,C B,61.0
+,Julia Ryl,F,,,38:01,8:00,33.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2281,,,480,J R,83.0
+,Mellissa Mullaly,F,,,38:10,8:02,32.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2290,,,482,M M,61.0
+,Murray Marsland,M,,,42:26,8:56,31.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2546,,,536,M M,69.0
+,DAVID BROOKS,M,,,43:39,9:11,30.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,2619,,,551,D B,66.0
+,Peter Reynolds,M,,,52:20,11:01,29.0,ig1-1,Medium,4.75,Peace Park ,2022-09-07,3140,,,661,P R,52.0
+,Jack Robinson,M,,,55:13,4:36,50.0,ig1-2,Long,12,Peace Park ,2022-09-07,3313,,,276,J R,50.0
+,Shayne  Pilgrim ***,M,,,58:54,4:55,49.0,ig1-2,Long,12,Peace Park ,2022-09-07,3534,,,295,S P *,98.0
+,Mark Marsland,M,,,58:55,4:55,48.0,ig1-2,Long,12,Peace Park ,2022-09-07,3535,,,295,M M,96.0
+,Daniel Woods,M,,,58:55,4:55,47.0,ig1-2,Long,12,Peace Park ,2022-09-07,3535,,,295,D W,47.0
+,Neil Parfitt,M,,,59:41,4:58,46.0,ig1-2,Long,12,Peace Park ,2022-09-07,3581,,,298,N P,46.0
+,Steve George,M,,,1:03:41,5:18,45.0,ig1-2,Long,12,Peace Park ,2022-09-07,3821,,,318,S G,45.0
+,Melissa Ralph,F,,,1:07:13,5:36,44.0,ig1-2,Long,12,Peace Park ,2022-09-07,4033,,,336,M R,94.0
+,Ethan  Fellows ,M,,,1:07:16,5:36,43.0,ig1-2,Long,12,Peace Park ,2022-09-07,4036,,,336,E F,89.0
+,Rohan Vowles,M,,,1:08:09,5:41,42.0,ig1-2,Long,12,Peace Park ,2022-09-07,4089,,,341,R V,83.0
+,Sebastian Hoffman,M,,,1:11:24,5:57,41.0,ig1-2,Long,12,Peace Park ,2022-09-07,4284,,,357,S H,87.0
+,Gordon Fox,M,,,1:24:03,7:00,40.0,ig1-2,Long,12,Peace Park ,2022-09-07,5043,,,420,G F,40.0
+,TONY FARNHAM,M,,,1:24:04,7:00,39.0,ig1-2,Long,12,Peace Park ,2022-09-07,5044,,,420,T F,83.0
+,Chris Jardine,M,,,1:24:05,7:00,38.0,ig1-2,Long,12,Peace Park ,2022-09-07,5045,,,420,C J,81.0
+,Weston Doley,M,,,,,50.0,g1-3,,,Peace Park ,2022-09-07,,,,,W D,50.0
+,Annette Doley,F,,,,,50.0,g1-3,,,Peace Park ,2022-09-07,,,,,A D,50.0
+,Darren Layt,M,,,,,50.0,g1-3,,,Peace Park ,2022-09-07,,,,,D L,100.0
+,Lewis Metcalfe,M,,,16:32,6:37,50.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,992,,,397,L M,150.0
+,Keanan  Kinsley-Cook,M,,,16:54,6:46,49.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1014,,,406,K K,142.0
+,Isla Petersen,F,,,17:15,6:54,48.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1035,,,414,I P,96.0
+,Amy Petersen,F,,,17:28,6:59,47.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1048,,,419,A P,93.0
+,Hazel  Metcalfe,F,,,19:09,7:40,46.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1149,,,460,H M,142.0
+,Declan Hunter,M,,,21:21,8:32,45.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1281,,,512,D H,45.0
+,Beau  Hunter,M,,,21:22,8:33,44.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1282,,,513,B H,44.0
+,KERRIE MCLENNAN,F,,,21:25,8:34,43.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1285,,,514,K M,43.0
+,Robert  Campbell,M,,,28:19,11:20,42.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1699,,,680,R C,126.0
+,Marshall  Campbell ,M,,,29:11,11:40,41.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1751,,,700,M C,119.0
+,Scott Campbell,M,,,29:11,11:40,40.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,1751,,,700,S C,79.0
+,Neil Chappell,M,,,47:07,18:51,39.0,ig1-0,Short,2.5,Peace Park ,2022-09-14,2827,,,1131,N C,108.0
+,Jeremy Campbell,M,,,21:34,4:48,50.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1294,,,288,J C,148.0
+,Fiona Reynolds,F,,,25:32,5:40,49.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1532,,,340,F R,142.0
+,Michael  Hay ,M,,,25:33,5:41,48.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1533,,,341,M H,97.0
+,Alice Jackson,F,,,27:31,6:07,47.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1651,,,367,A J,124.0
+,Kathleen Robinson,F,,,27:44,6:10,46.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1664,,,370,K R,86.0
+,Jessica  Vanderkroft ,F,,,28:22,6:18,45.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1702,,,378,J V,136.0
+,Jessica Locock,F,,,28:47,6:24,44.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1727,,,384,J L,79.0
+,Emma Nevin,F,,,30:54,6:52,43.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1854,,,412,E N,84.0
+,Nicole Schneeweiss,F,,,30:54,6:52,42.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1854,,,412,N S,42.0
+,Ros Fraser,F,,,30:55,6:52,41.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1855,,,412,R F,41.0
+,Petro Holowinskyj,M,,,30:59,6:53,40.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1859,,,413,P H,117.0
+,Geoff Hiscock,M,,,31:06,6:55,39.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1866,,,415,G H,39.0
+,John Simmons,M,,,31:19,6:58,38.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1879,,,418,J S,63.0
+,Erica Jones-White,F,,,31:21,6:58,37.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1881,,,418,E J,37.0
+,Cassandra Thompson,F,,,31:21,6:58,36.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1881,,,418,C T,70.0
+,Jeremy  White,M,,,31:22,6:58,35.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1882,,,418,J W,82.0
+,Jennifer  Collado,F,,,32:03,7:07,34.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1923,,,427,J C,122.0
+,Melissa Hoffman,F,,,32:04,7:08,33.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1924,,,428,M H,99.0
+,Sebastian Hoffman,M,,,32:09,7:09,32.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1929,,,429,S H,119.0
+,Sinead Mullaly,F,,,32:27,7:13,31.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,1947,,,433,S M,102.0
+,Liam Mullaly,M,,,34:42,7:43,30.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,2082,,,463,L M,121.0
+,Allison Campbell,F,,,36:05,8:01,29.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,2165,,,481,A C,105.0
+,Mellissa Mullaly,F,,,36:21,8:05,28.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,2181,,,485,M M,89.0
+,Justine Manners,F,,,39:20,8:44,27.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,2360,,,524,J M,53.0
+,Christine Bates,F,,,41:58,9:20,26.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,2518,,,560,C B,87.0
+,Leslie Bates,M,,,42:02,9:20,25.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,2522,,,560,L B,70.0
+,Murray Marsland,M,,,44:03,9:47,24.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,2643,,,587,M M,93.0
+,Joanne Marsland,F,,,44:04,9:48,23.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,2644,,,588,J M,56.0
+,Peter Reynolds,M,,,49:55,11:06,22.0,ig1-1,Medium,4.5,Peace Park ,2022-09-14,2995,,,666,P R,74.0
+,Shayne  Pilgrim ,M,,,56:49,4:44,50.0,ig1-2,Long,12,Peace Park ,2022-09-14,3409,,,284,S P,50.0
+,Simon Gulliver,M,,,56:49,4:44,49.0,ig1-2,Long,12,Peace Park ,2022-09-14,3409,,,284,S G,49.0
+,Daniel Woods,M,,,56:50,4:44,48.0,ig1-2,Long,12,Peace Park ,2022-09-14,3410,,,284,D W,95.0
+,Mark Marsland,M,,,58:22,4:52,47.0,ig1-2,Long,12,Peace Park ,2022-09-14,3502,,,292,M M,143.0
+,Melissa Ralph,F,,,1:05:08,5:26,46.0,ig1-2,Long,12,Peace Park ,2022-09-14,3908,,,326,M R,140.0
+,Ethan  Fellows ,M,,,1:05:35,5:28,45.0,ig1-2,Long,12,Peace Park ,2022-09-14,3935,,,328,E F,134.0
+,Steve George,M,,,1:14:41,6:13,44.0,ig1-2,Long,12,Peace Park ,2022-09-14,4481,,,373,S G,89.0
+,Gordon Fox,M,,,1:20:04,6:40,43.0,ig1-2,Long,12,Peace Park ,2022-09-14,4804,,,400,G F,83.0
+,Rohan Vowles,M,,,1:20:29,6:42,42.0,ig1-2,Long,12,Peace Park ,2022-09-14,4829,,,402,R V,125.0
+,William Holland,M,,,,,50.0,g1-3,,,Peace Park ,2022-09-14,,,,,W H,122.0
+,Peter Blansjaar,M,,,,,50.0,g1-3,,,Peace Park ,2022-09-14,,,,,P B,139.0
+,Elliott  Pratt,M,,,18:15,6:05,50.0,ig1-0,Short,3,Peace Park ,2022-09-21,1095,,,365,E P,50.0
+,Declan Hunter,M,,,21:41,7:14,49.0,ig1-0,Short,3,Peace Park ,2022-09-21,1301,,,434,D H,94.0
+,Kristen  Pratt,F,,,22:06,7:22,48.0,ig1-0,Short,3,Peace Park ,2022-09-21,1326,,,442,K P,48.0
+,Neil Chappell,M,,,44:34,14:51,47.0,ig1-0,Short,3,Peace Park ,2022-09-21,2674,,,891,N C,155.0
+,Jeremy Campbell,M,,,23:17,4:39,50.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1397,,,279,J C,198.0
+,Sebastian Hoffman,M,,,24:22,4:52,49.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1462,,,292,S H,168.0
+,Mathew  Pratt,M,,,24:53,4:59,48.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1493,,,299,M P,48.0
+,Ian  Olsen,M,,,25:08,5:02,47.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1508,,,302,I O,92.0
+,Ann-Maree  Campbell ,F,,,25:23,5:05,46.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1523,,,305,A C,93.0
+,Fiona Reynolds,F,,,26:36,5:19,45.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1596,,,319,F R,187.0
+,Peter Blansjaar,M,,,26:50,5:22,44.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1610,,,322,P B,183.0
+,Melissa  Hug,F,,,27:24,5:29,43.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1644,,,329,M H,43.0
+,Leslie Bates,M,,,27:41,5:32,42.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1661,,,332,L B,112.0
+,Tess Madeley,F,,,28:28,5:42,41.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1708,,,342,T M,80.0
+,Jessica  Vanderkroft ,F,,,29:10,5:50,40.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1750,,,350,J V,176.0
+,Jessica Locock,F,,,29:16,5:51,39.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1756,,,351,J L,118.0
+,William Holland,M,,,29:26,5:53,38.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1766,,,353,W H,160.0
+,Trey Hunter,M,,,30:38,6:08,37.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1838,,,368,T H,79.0
+,John Simmons,M,,,31:17,6:15,36.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1877,,,375,J S,99.0
+,Petro Holowinskyj,M,,,31:25,6:17,35.0,ig1-1,Medium,5,Peace Park ,2022-09-21,1885,,,377,P H,152.0
+,Philip O'Hearn,M,,,33:21,6:40,34.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2001,,,400,P O,34.0
+,KERRIE MCLENNAN,F,,,33:22,6:40,33.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2002,,,400,K M,76.0
+,Melissa Hoffman,F,,,34:35,6:55,32.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2075,,,415,M H,131.0
+,Ella Gilbert,F,,,34:41,6:56,31.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2081,,,416,E G,99.0
+,Erica Jones-White,F,,,35:44,7:09,30.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2144,,,429,E J,67.0
+,Jeremy  White,M,,,35:46,7:09,29.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2146,,,429,J W,111.0
+,Julia Ryl,F,,,36:20,7:16,28.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2180,,,436,J R,111.0
+,Christine Bates,F,,,42:52,8:34,27.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2572,,,514,C B,114.0
+,Vicki O'Hearn,F,,,44:39,8:56,26.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2679,,,536,V O,26.0
+,Amanda O'Hearn,F,,,44:41,8:56,25.0,ig1-1,Medium,5,Peace Park ,2022-09-21,2681,,,536,A O,25.0
+,Daniel Woods,M,,,57:59,5:48,50.0,ig1-2,Long,10,Peace Park ,2022-09-21,3479,,,348,D W,145.0
+,Darren Layt,M,,,59:49,5:59,49.0,ig1-2,Long,10,Peace Park ,2022-09-21,3589,,,359,D L,149.0
+,Melissa Ralph,F,,,1:05:58,6:36,48.0,ig1-2,Long,10,Peace Park ,2022-09-21,3958,,,396,M R,188.0
+,Ethan  Fellows ,M,,,1:06:04,6:36,47.0,ig1-2,Long,10,Peace Park ,2022-09-21,3964,,,396,E F,181.0
+,Chris Jardine,M,,,1:10:37,7:04,46.0,ig1-2,Long,10,Peace Park ,2022-09-21,4237,,,424,C J,127.0
+,Steve George,M,,,1:12:46,7:17,45.0,ig1-2,Long,10,Peace Park ,2022-09-21,4366,,,437,S G,134.0
+,Rohan Vowles,M,,,1:16:24,7:38,44.0,ig1-2,Long,10,Peace Park ,2022-09-21,4584,,,458,R V,169.0
+,Gordon Fox,M,,,1:23:30,8:21,43.0,ig1-2,Long,10,Peace Park ,2022-09-21,5010,,,501,G F,126.0
+,Tony Howard,M,,,,,50.0,g1-3,,,Peace Park ,2022-09-21,,,,,T H,109.0
+,Michael  Hay ,M,,,,,50.0,g1-3,,,Peace Park ,2022-09-21,,,,,M H,147.0
+,Jack Robinson,M,,,43:23,4:28,50.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,2603,,,268,J R,100.0
+,Simon Gulliver,M,,,46:00,4:45,49.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,2760,,,285,S G,98.0
+,Mark Marsland,M,,,49:06,5:04,48.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,2946,,,304,M M,191.0
+,Craig Murrell,M,,,49:41,5:07,47.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,2981,,,307,C M,47.0
+,Sebastian Hoffman,M,,,50:14,5:11,46.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3014,,,311,S H,214.0
+,Ian Robinson,M,,,51:48,5:20,45.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3108,,,320,I R,45.0
+,Ethan  Fellows ,M,,,53:22,5:30,44.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3202,,,330,E F,225.0
+,Melissa Ralph,F,,,53:25,5:30,43.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3205,,,330,M R,231.0
+,Jeremy  White,M,,,53:53,5:33,42.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3233,,,333,J W,153.0
+,Greg Mullaly,M,,,54:35,5:38,41.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3275,,,338,G M,41.0
+,Chris Jardine,M,,,56:28,5:49,40.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3388,,,349,C J,167.0
+,Steve George,M,,,58:02,5:59,39.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3482,,,359,S G,173.0
+,Rodney O'Connor,M,,,58:07,5:59,38.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3487,,,359,R O,38.0
+,Gordon Fox,M,,,1:05:00,6:42,37.0,ig1-0,Long,9.7,Kitchener Poppet Head ,2022-09-28,3900,,,402,G F,163.0
+,Hayden Tyrrell,M,,,22:37,4:46,50.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1357,,,286,H T,50.0
+,Beau  Hunter,M,,,26:09,5:30,49.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1569,,,330,B H,93.0
+,Ian  Olsen,M,,,26:22,5:33,48.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1582,,,333,I O,140.0
+,Michael  Hay ,M,,,26:55,5:40,47.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1615,,,340,M H,194.0
+,Jeremy Campbell,M,,,28:25,5:59,46.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1705,,,359,J C,244.0
+,Trey Hunter,M,,,29:52,6:17,45.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1792,,,377,T H,124.0
+,Peter Blansjaar,M,,,29:53,6:17,44.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1793,,,377,P B,227.0
+,Jessica  Vanderkroft ,F,,,31:10,6:34,43.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1870,,,394,J V,219.0
+,William Holland,M,,,31:16,6:35,42.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1876,,,395,W H,202.0
+,Sarah Tyrrell,F,,,32:19,6:48,41.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1939,,,408,S T,79.0
+,Leslie Bates,M,,,32:23,6:49,40.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1943,,,409,L B,152.0
+,John Simmons,M,,,32:30,6:51,39.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1950,,,411,J S,138.0
+,Petro Holowinskyj,M,,,32:39,6:52,38.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1959,,,412,P H,190.0
+,Geoff Hiscock,M,,,33:15,7:00,37.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,1995,,,420,G H,76.0
+,Philip O'Hearn,M,,,34:58,7:22,36.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2098,,,442,P O,70.0
+,Sinead Mullaly,F,,,35:30,7:28,35.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2130,,,448,S M,137.0
+,Tony Howard,M,,,35:34,7:29,34.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2134,,,449,T H,143.0
+,Melissa Hoffman,F,,,35:37,7:30,33.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2137,,,450,M H,164.0
+,Joanne Marsland,F,,,35:45,7:32,32.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2145,,,452,J M,88.0
+,Liam Mullaly,M,,,38:07,8:01,31.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2287,,,481,L M,152.0
+,Amanda O'Hearn,F,,,38:10,8:02,30.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2290,,,482,A O,55.0
+,Julia Ryl,F,,,38:42,8:09,29.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2322,,,489,J R,140.0
+,Scott Campbell,M,,,38:53,8:11,28.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2333,,,491,S C,107.0
+,Mellissa Mullaly,F,,,41:12,8:40,27.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2472,,,520,M M,116.0
+,Justine Manners,F,,,41:18,8:42,26.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2478,,,522,J M,79.0
+,Christine Bates,F,,,45:36,9:36,25.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-09-28,2736,,,576,C B,139.0
+,Mathew  Pratt,M,,,14:26,4:49,50.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,866,,,289,M P,98.0
+,Elliott  Pratt,M,,,15:04,5:01,49.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,904,,,301,E P,99.0
+,Timothy  Marsland,M,,,15:13,5:04,48.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,913,,,304,T M,146.0
+,Keanan  Kinsley-Cook,M,,,18:37,6:12,47.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,1117,,,372,K K,189.0
+,Kristen  Pratt,F,,,20:19,6:46,46.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,1219,,,406,K P,94.0
+,Declan Hunter,M,,,20:26,6:49,45.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,1226,,,409,D H,139.0
+,Abbie Bagnall,F,,,20:31,6:50,44.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,1231,,,410,A B,87.0
+,Abby Prater,F,,,23:59,8:00,43.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,1439,,,480,A P,131.0
+,Finn McNeill,M,,,24:06,8:02,42.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,1446,,,482,F M,128.0
+,Murray Marsland,M,,,26:32,8:51,41.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,1592,,,531,M M,134.0
+,DAVID BROOKS,M,,,26:33,8:51,40.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,1593,,,531,D B,106.0
+,Luna McNeill,F,,,35:26,11:49,39.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,2126,,,709,L M,112.0
+,Louise McNeill,F,,,35:27,11:49,38.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,2127,,,709,L M,109.0
+,Neil Chappell,M,,,41:07,13:42,37.0,ig1-2,Short,3,Kitchener Poppet Head ,2022-09-28,2467,,,822,N C,192.0
+,Michael Hill,M,,,,,50.0,g1-3,,,Kitchener Poppet Head ,2022-09-28,,,,,M H,50.0
+,Allison Campbell,F,,,,,50.0,g1-3,,,Kitchener Poppet Head ,2022-09-28,,,,,A C,155.0
+,Declan Hunter,M,,,19:51,6:37,50.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-05,1191,,,397,D H,189.0
+,DAVID BROOKS,M,,,39:44,13:15,49.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-05,2384,,,795,D B,155.0
+,Beau  Hunter,M,,,25:33,5:23,50.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,1533,,,323,B H,143.0
+,Ian  Olsen,M,,,28:39,6:02,49.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,1719,,,362,I O,189.0
+,Trey Hunter,M,,,31:36,6:39,48.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,1896,,,399,T H,172.0
+,Peter Blansjaar,M,,,32:07,6:46,47.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,1927,,,406,P B,274.0
+,Sarah Tyrrell,F,,,32:55,6:56,46.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,1975,,,416,S T,125.0
+,John Simmons,M,,,33:03,6:57,45.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,1983,,,417,J S,183.0
+,William Holland,M,,,33:08,6:59,44.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,1988,,,419,W H,246.0
+,Petro Holowinskyj,M,,,33:16,7:00,43.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,1996,,,420,P H,233.0
+,Philip O'Hearn,M,,,34:18,7:13,42.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,2058,,,433,P O,112.0
+,Liam Mullaly,M,,,35:32,7:29,41.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,2132,,,449,L M,193.0
+,Sinead Mullaly,F,,,37:00,7:47,40.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,2220,,,467,S M,177.0
+,Kathleen Robinson,F,,,37:06,7:49,39.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,2226,,,469,K R,125.0
+,Mellissa Mullaly,F,,,41:27,8:44,38.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,2487,,,524,M M,154.0
+,Julia Ryl,F,,,44:55,9:27,37.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,2695,,,567,J R,177.0
+,Annette Doley,F,,,47:03,9:54,36.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,2823,,,594,A D,86.0
+,Tracy Edwards,F,,,47:04,9:55,35.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-05,2824,,,595,T E,35.0
+,Darren Layt,M,,,47:02,4:51,50.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,2822,,,291,D L,199.0
+,Shayne  Pilgrim ,M,,,47:24,4:53,49.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,2844,,,293,S P,99.0
+,Mark Marsland,M,,,48:17,4:59,48.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,2897,,,299,M M,239.0
+,Weston Doley,M,,,48:38,5:01,47.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,2918,,,301,W D,97.0
+,Melissa Ralph,F,,,51:27,5:18,46.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,3087,,,318,M R,277.0
+,Ethan  Fellows ,M,,,52:18,5:24,45.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,3138,,,324,E F,270.0
+,Greg Mullaly,M,,,56:02,5:47,44.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,3362,,,347,G M,85.0
+,Chris Jardine,M,,,56:39,5:50,43.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,3399,,,350,C J,210.0
+,Steve George,M,,,58:07,5:59,42.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,3487,,,359,S G,215.0
+,Gordon Fox,M,,,1:12:35,7:29,41.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-05,4355,,,449,G F,204.0
+,Michael Hill,M,,,,,0.0,g1-3,,,Kitchener Poppet Head ,2022-10-05,,,,,M H,50.0
+,Kathleen March,F,,,,,50.0,g1-3,,,Kitchener Poppet Head ,2022-10-05,,,,,K M,50.0
+,Rohan Vowles,M,,,,,50.0,g1-3,,,Kitchener Poppet Head ,2022-10-05,,,,,R V,219.0
+,Mathew  Pratt,M,,,15:31,5:10,50.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,931,,,310,M P,148.0
+,Elliott  Pratt,M,,,16:48,5:36,49.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1008,,,336,E P,148.0
+,Melissa  Hug,F,,,16:52,5:37,48.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1012,,,337,M H,91.0
+,Timothy  Marsland,M,,,17:10,5:43,47.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1030,,,343,T M,193.0
+,Ann-Maree  Campbell ,F,,,17:23,5:48,46.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1043,,,348,A C,139.0
+,Keanan  Kinsley-Cook,M,,,17:57,5:59,45.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1077,,,359,K K,234.0
+,Landon  Pratt,M,,,18:13,6:04,44.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1093,,,364,L P,44.0
+,Tess Madeley,F,,,18:22,6:07,43.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1102,,,367,T M,123.0
+,Isla Petersen,F,,,18:59,6:20,42.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1139,,,380,I P,138.0
+,Ash Como,F,,,20:50,6:57,41.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1250,,,417,A C,41.0
+,Declan Hunter,M,,,22:53,7:38,40.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1373,,,458,D H,229.0
+,Abby Prater,F,,,26:32,8:51,39.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1592,,,531,A P,170.0
+,Finn McNeill,M,,,26:43,8:54,38.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1603,,,534,F M,166.0
+,Murray Marsland,M,,,28:47,9:36,37.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,1727,,,576,M M,171.0
+,Kathleen March,F,,,34:53,11:38,36.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-12,2093,,,698,K M,86.0
+,Bayden McNeill,M,,,22:28,4:44,50.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1348,,,284,B M,50.0
+,Jeremy Campbell,M,,,25:26,5:21,49.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1526,,,321,J C,293.0
+,Trey Hunter,M,,,27:17,5:45,48.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1637,,,345,T H,220.0
+,Beau  Hunter,M,,,27:25,5:46,47.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1645,,,346,B H,190.0
+,Fiona Reynolds,F,,,27:53,5:52,46.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1673,,,352,F R,233.0
+,Peter Blansjaar,M,,,29:07,6:08,45.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1747,,,368,P B,319.0
+,William Holland,M,,,29:54,6:18,44.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1794,,,378,W H,290.0
+,Liam Mullaly,M,,,30:42,6:28,43.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1842,,,388,L M,236.0
+,Kathleen Robinson,F,,,30:51,6:30,42.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1851,,,390,K R,167.0
+,Petro Holowinskyj,M,,,31:23,6:36,41.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1883,,,396,P H,274.0
+,John Simmons,M,,,31:37,6:39,40.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1897,,,399,J S,223.0
+,Jessica  Vanderkroft ,F,,,31:46,6:41,39.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1906,,,401,J V,258.0
+,KERRIE MCLENNAN,F,,,32:25,6:49,38.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1945,,,409,K M,114.0
+,Philip O'Hearn,M,,,32:29,6:50,37.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1949,,,410,P O,149.0
+,Mitch Bromage,M,,,32:42,6:53,36.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,1962,,,413,M B,121.0
+,Geoff Hiscock,M,,,33:32,7:04,35.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2012,,,424,G H,111.0
+,Jessica Locock,F,,,34:29,7:16,34.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2069,,,436,J L,152.0
+,Sinead Mullaly,F,,,36:09,7:37,33.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2169,,,457,S M,210.0
+,Joanne Marsland,F,,,36:12,7:37,32.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2172,,,457,J M,120.0
+,Julia Ryl,F,,,37:15,7:51,31.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2235,,,471,J R,208.0
+,Allison Campbell,F,,,37:29,7:53,30.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2249,,,473,A C,185.0
+,Ella Gilbert,F,,,39:15,8:16,29.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2355,,,496,E G,128.0
+,Melissa Hoffman,F,,,39:16,8:16,28.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2356,,,496,M H,192.0
+,Jennifer  Collado,F,,,39:16,8:16,27.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2356,,,496,J C,149.0
+,Amanda O'Hearn,F,,,43:29,9:09,26.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2609,,,549,A O,81.0
+,Vicki O'Hearn,F,,,43:36,9:11,25.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2616,,,551,V O,51.0
+,Katie Lawson,F,,,43:58,9:15,24.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2638,,,555,K L,24.0
+,Christine Bates,F,,,44:18,9:20,23.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-12,2658,,,560,C B,162.0
+,Darren Layt,M,,,42:43,4:24,50.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,2563,,,264,D L,249.0
+,Daniel Woods,M,,,43:15,4:28,49.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,2595,,,268,D W,194.0
+,Simon Gulliver,M,,,44:31,4:35,48.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,2671,,,275,S G,146.0
+,Shayne  Pilgrim ,M,,,46:06,4:45,47.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,2766,,,285,S P,146.0
+,Mark Marsland,M,,,47:00,4:51,46.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,2820,,,291,M M,285.0
+,Craig Murrell,M,,,47:14,4:52,45.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,2834,,,292,C M,92.0
+,Weston Doley,M,,,48:50,5:02,44.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,2930,,,302,W D,141.0
+,Ethan  Fellows ,M,,,49:43,5:08,43.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,2983,,,308,E F,313.0
+,Melissa Ralph,F,,,49:48,5:08,42.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,2988,,,308,M R,319.0
+,Chris Jardine,M,,,53:38,5:32,41.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,3218,,,332,C J,251.0
+,Jeremy  White,M,,,53:51,5:33,40.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,3231,,,333,J W,193.0
+,Rodney O'Connor,M,,,56:02,5:47,39.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,3362,,,347,R O,77.0
+,Ian  Olsen,M,,,56:22,5:49,38.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,3382,,,349,I O,227.0
+,Steve George,M,,,56:50,5:52,37.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,3410,,,352,S G,252.0
+,Sebastian Hoffman,M,,,56:52,5:52,36.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,3412,,,352,S H,250.0
+,Rohan Vowles,M,,,59:12,6:06,35.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,3552,,,366,R V,254.0
+,Michael  Hay ,M,,,59:18,6:07,34.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,3558,,,367,M H,228.0
+,Gordon Fox,M,,,1:06:52,6:54,33.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-12,4012,,,414,G F,237.0
+,Mellissa Mullaly,F,,,,,50.0,g1-3,,,Kitchener Poppet Head ,2022-10-12,,,,,M M,204.0
+,Scott Campbell,M,,,,,50.0,g1-3,,,Kitchener Poppet Head ,2022-10-12,,,,,S C,157.0
+,Position 11***,M,29:15,0:00,0:00,0:00,,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,0,1755,0,0,P 1,
+,Position 12***,M,29:16,0:00,0:00,0:00,,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,0,1756,0,0,P 1,
+,Keanan  Kinsley-Cook,M,16:41,0:00,16:41,5:34,100.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,1001,1001,0,334,K K,334.0
+,Lewis Metcalfe,M,18:01,1:00,17:01,5:40,99.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,1021,1081,60,340,L M,249.0
+,Hazel  Metcalfe,F,22:04,0:00,22:04,7:21,98.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,1324,1324,0,441,H M,240.0
+,Robert  Campbell,M,23:48,0:00,23:48,7:56,97.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,1428,1428,0,476,R C,223.0
+,DAVID BROOKS,M,24:51,0:00,24:51,8:17,96.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,1491,1491,0,497,D B,251.0
+,Marshall  Campbell ,M,24:59,0:00,24:59,8:20,95.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,1499,1499,0,500,M C,214.0
+,Allison Campbell,F,25:01,0:00,25:01,8:20,94.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,1501,1501,0,500,A C,279.0
+,HUGH MCLENNAN,M,25:49,0:00,25:49,8:36,93.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,1549,1549,0,516,H M,93.0
+,KERRIE MCLENNAN,F,28:06,2:15,25:51,8:37,92.0,ig1-0,Short,3,Kitchener Poppet Head ,2022-10-19,1551,1686,135,517,K M,206.0
+,Hayden Tyrrell,M,28:48,5:15,23:33,4:57,100.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1413,1728,315,297,H T,150.0
+,Jeremy Campbell,M,29:55,5:45,24:10,5:05,99.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1450,1795,345,305,J C,392.0
+,Peter Blansjaar,M,30:55,2:00,28:55,6:05,98.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1735,1855,120,365,P B,417.0
+,Alice Jackson,F,30:59,0:00,30:59,6:31,97.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1859,1859,0,391,A J,221.0
+,Kathleen Robinson,F,31:08,0:00,31:08,6:33,96.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1868,1868,0,393,K R,263.0
+,Mitch Bromage,M,31:45,0:45,31:00,6:32,95.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1860,1905,45,392,M B,216.0
+,William Holland,M,32:00,0:45,31:15,6:35,94.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1875,1920,45,395,W H,384.0
+,Petro Holowinskyj,M,32:44,0:00,32:44,6:53,93.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1964,1964,0,413,P H,367.0
+,Philip O'Hearn,M,32:47,0:00,32:47,6:54,92.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1967,1967,0,414,P O,241.0
+,Geoff Hiscock,M,33:00,0:00,33:00,6:57,91.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1980,1980,0,417,G H,202.0
+,Jessica Locock,F,33:08,0:00,33:08,6:59,90.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1988,1988,0,419,J L,242.0
+,Jessica  Vanderkroft ,F,33:18,0:30,32:48,6:54,89.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1968,1998,30,414,J V,347.0
+,Sarah Tyrrell,F,33:31,0:00,33:31,7:03,88.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2011,2011,0,423,S T,213.0
+,Fiona Reynolds,F,33:38,3:45,29:53,6:17,87.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,1793,2018,225,377,F R,320.0
+,TONY FARNHAM,M,33:59,0:00,33:59,7:09,86.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2039,2039,0,429,T F,169.0
+,Julia Ryl,F,36:40,0:00,36:40,7:43,85.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2200,2200,0,463,J R,293.0
+,Amanda O'Hearn,F,36:51,0:00,36:51,7:45,84.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2211,2211,0,465,A O,165.0
+,Liam Mullaly,M,37:12,0:00,37:12,7:50,83.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2232,2232,0,470,L M,319.0
+,Jennifer  Collado,F,37:17,0:00,37:17,7:51,82.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2237,2237,0,471,J C,231.0
+,Melissa Hoffman,F,37:17,0:00,37:17,7:51,81.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2237,2237,0,471,M H,273.0
+,Sinead Mullaly,F,37:31,0:00,37:31,7:54,80.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2251,2251,0,474,S M,290.0
+,Tony Howard,M,39:35,0:00,39:35,8:20,79.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2375,2375,0,500,T H,222.0
+,Mellissa Mullaly,F,41:07,0:00,41:07,8:39,78.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2467,2467,0,519,M M,282.0
+,Justine Manners,F,41:58,0:00,41:58,8:50,77.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2518,2518,0,530,J M,156.0
+,Annette Doley,F,42:24,0:00,42:24,8:56,76.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2544,2544,0,536,A D,162.0
+,Tracy Edwards,F,42:25,0:00,42:25,8:56,75.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2545,2545,0,536,T E,110.0
+,Christine Bates,F,43:36,0:00,43:36,9:11,74.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,2616,2616,0,551,C B,236.0
+,Kimberley Gulliver,F,52:52,0:00,52:52,11:08,73.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,3172,3172,0,668,K G,73.0
+,Peter Reynolds,M,52:52,0:00,52:52,11:08,72.0,ig1-1,Medium,4.75,Kitchener Poppet Head ,2022-10-19,3172,3172,0,668,P R,146.0
+,Chris Jardine,M,57:35,2:15,55:20,5:42,100.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,3320,3455,135,342,C J,351.0
+,Jeremy  White,M,58:25,5:45,52:40,5:26,99.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,3160,3505,345,326,J W,292.0
+,Daniel Woods,M,58:26,13:30,44:56,4:38,98.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,2696,3506,810,278,D W,292.0
+,Darren Layt,M,58:58,14:30,44:28,4:35,97.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,2668,3538,870,275,D L,346.0
+,Melissa Ralph,F,59:11,8:30,50:41,5:14,96.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,3041,3551,510,314,M R,415.0
+,Simon Gulliver,M,1:01:04,15:15,45:49,4:43,95.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,2749,3664,915,283,S G,241.0
+,Weston Doley,M,1:01:16,13:00,48:16,4:59,94.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,2896,3676,780,299,W D,235.0
+,Shayne  Pilgrim ,M,1:01:23,15:45,45:38,4:42,93.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,2738,3683,945,282,S P,239.0
+,Gordon Fox,M,1:08:34,0:00,1:08:34,7:04,92.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,4114,4114,0,424,G F,329.0
+,Ethan  Fellows ,M,1:14:34,8:15,1:06:19,6:50,91.0,ig1-2,Long,9.7,Kitchener Poppet Head ,2022-10-19,3979,4474,495,410,E F,404.0
+,Hazel  Metcalfe,F,,,20:12,6:44,50.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1212,,,404,H M,290.0
+,Lewis Metcalfe,M,,,20:15,6:45,49.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1215,,,405,L M,298.0
+,Erica Jones-White,F,,,20:43,6:54,48.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1243,,,414,E J,115.0
+,Jeremy  White,M,,,20:46,6:55,47.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1246,,,415,J W,339.0
+,Jessica  Vanderkroft ,F,,,22:16,7:25,46.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1336,,,445,J V,393.0
+,Abbie Bagnall,F,,,23:02,7:41,45.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1382,,,461,A B,132.0
+,Finn McNeill,M,,,23:34,7:51,44.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1414,,,471,F M,210.0
+,Keanan  Kinsley-Cook,M,,,23:41,7:54,43.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1421,,,474,K K,377.0
+,Lawrence  Van der Meulen,M,,,23:48,7:56,42.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1428,,,476,L V d M,42.0
+,Katherine Morris,F,,,23:51,7:57,41.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1431,,,477,K M,41.0
+,Robert  Campbell,M,,,24:28,8:09,40.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1468,,,489,R C,263.0
+,Declan Hunter,M,,,25:20,8:27,39.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1520,,,507,D H,268.0
+,Louise McNeill,F,,,25:51,8:37,38.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1551,,,517,L M,147.0
+,Marshall  Campbell ,M,,,31:58,10:39,37.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1918,,,639,M C,251.0
+,Scott Campbell,M,,,32:00,10:40,36.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,1920,,,640,S C,193.0
+,Kathleen March,F,,,34:31,11:30,35.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,2071,,,690,K M,121.0
+,Luna McNeill,F,,,37:10,12:23,34.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,2230,,,743,L M,146.0
+,Bayden McNeill,M,,,37:19,12:26,33.0,ig1-0,Short,3,Pelaw Main ,2022-10-26,2239,,,746,B M,83.0
+,Jack Robinson,M,,,24:13,4:51,50.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,1453,,,291,J R,150.0
+,Ryan Prater,M,,,25:48,5:10,49.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,1548,,,310,R P,49.0
+,Jeremy Campbell,M,,,25:52,5:10,48.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,1552,,,310,J C,440.0
+,Michael  Hay ,M,,,28:20,5:40,47.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,1700,,,340,M H,275.0
+,Trey Hunter,M,,,29:32,5:54,46.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,1772,,,354,T H,266.0
+,Beau  Hunter,M,,,30:04,6:01,45.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,1804,,,361,B H,235.0
+,Fiona Reynolds,F,,,30:15,6:03,44.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,1815,,,363,F R,364.0
+,Michael Hill,M,,,33:12,6:38,43.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,1992,,,398,M H,93.0
+,Peter Blansjaar,M,,,33:18,6:40,42.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,1998,,,400,P B,459.0
+,William Holland,M,,,33:33,6:43,41.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2013,,,403,W H,425.0
+,Alice Jackson,F,,,33:58,6:48,40.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2038,,,408,A J,261.0
+,Sarah Tyrrell,F,,,34:15,6:51,39.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2055,,,411,S T,252.0
+,Philip O'Hearn,M,,,35:15,7:03,38.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2115,,,423,P O,279.0
+,Emma Nevin,F,,,36:29,7:18,37.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2189,,,438,E N,121.0
+,Nicole Schneeweiss,F,,,36:31,7:18,36.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2191,,,438,N S,78.0
+,Petro Holowinskyj,M,,,36:39,7:20,35.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2199,,,440,P H,402.0
+,Sinead Mullaly,F,,,37:40,7:32,34.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2260,,,452,S M,324.0
+,Allison Campbell,F,,,37:51,7:34,33.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2271,,,454,A C,312.0
+,Abby Prater,F,,,38:22,7:40,32.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2302,,,460,A P,202.0
+,Tony Howard,M,,,38:36,7:43,31.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2316,,,463,T H,253.0
+,Jennifer  Collado,F,,,39:53,7:59,30.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2393,,,479,J C,261.0
+,Melissa Hoffman,F,,,39:54,7:59,29.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2394,,,479,M H,302.0
+,Liam Mullaly,M,,,42:28,8:30,28.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2548,,,510,L M,347.0
+,Mellissa Mullaly,F,,,43:06,8:37,27.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2586,,,517,M M,309.0
+,Vicki O'Hearn,F,,,44:25,8:53,26.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2665,,,533,V O,77.0
+,Justine Manners,F,,,44:29,8:54,25.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2669,,,534,J M,181.0
+,Katie Lawson,F,,,44:30,8:54,24.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2670,,,534,K L,48.0
+,Amanda O'Hearn,F,,,44:36,8:55,23.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2676,,,535,A O,188.0
+,Julia Ryl,F,,,44:48,8:58,22.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2688,,,538,J R,315.0
+,Annette Doley,F,,,47:15,9:27,21.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2835,,,567,A D,183.0
+,Tracy Edwards,F,,,47:15,9:27,20.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,2835,,,567,T E,130.0
+,Kimberley Gulliver,F,,,51:45,10:21,19.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,3105,,,621,K G,92.0
+,Simon Gulliver,M,,,51:52,10:22,18.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,3112,,,622,S G,259.0
+,Peter Reynolds,M,,,56:02,11:12,17.0,ig1-1,Medium,5,Pelaw Main ,2022-10-26,3362,,,672,P R,163.0
+,Darren Layt,M,,,45:29,4:33,50.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,2729,,,273,D L,396.0
+,Shayne  Pilgrim ,M,,,46:54,4:41,49.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,2814,,,281,S P,288.0
+,Ethan  Fellows ,M,,,53:38,5:22,48.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,3218,,,322,E F,452.0
+,Melissa Ralph,F,,,53:46,5:23,47.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,3226,,,323,M R,462.0
+,Sebastian Hoffman,M,,,57:36,5:46,46.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,3456,,,346,S H,296.0
+,Ian  Olsen,M,,,57:52,5:47,45.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,3472,,,347,I O,272.0
+,Steve George,M,,,59:45,5:59,44.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,3585,,,359,S G,296.0
+,Chris Jardine,M,,,59:50,5:59,43.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,3590,,,359,C J,394.0
+,Rohan Vowles,M,,,1:07:05,6:43,42.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,4025,,,403,R V,296.0
+,Gordon Fox,M,,,1:14:39,7:28,41.0,ig1-2,Long,10,Pelaw Main ,2022-10-26,4479,,,448,G F,370.0
+,Kathleen Robinson,F,,,,,50.0,g1-3,,,Pelaw Main ,2022-10-26,,,,,K R,313.0
+,Ian Robinson,M,,,,,50.0,g1-3,,,Pelaw Main ,2022-10-26,,,,,I R,95.0
+,Neil Chappell,M,,,,,50.0,g1-3,,,Pelaw Main ,2022-10-26,,,,,N C,242.0
+,Lewis Metcalfe,M,,,17:28,5:49,50.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1048,,,349,L M,348.0
+,Declan Hunter,M,,,19:59,6:40,49.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1199,,,400,D H,317.0
+,Tess Madeley,F,,,20:07,6:42,48.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1207,,,402,T M,171.0
+,Abby Prater,F,,,20:28,6:49,47.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1228,,,409,A P,249.0
+,Finn McNeill,M,,,20:37,6:52,46.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1237,,,412,F M,256.0
+,Ryan Prater,M,,,20:38,6:53,45.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1238,,,413,R P,94.0
+,Hazel  Metcalfe,F,,,22:32,7:31,44.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1352,,,451,H M,334.0
+,Abbie Bagnall,F,,,22:52,7:37,43.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1372,,,457,A B,175.0
+,Louise McNeill,F,,,24:55,8:18,42.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1495,,,498,L M,189.0
+,Robert  Campbell,M,,,24:59,8:20,41.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1499,,,500,R C,304.0
+,Christine Bates,F,,,26:02,8:41,40.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1562,,,521,C B,276.0
+,Leslie Bates,M,,,26:04,8:41,39.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1564,,,521,L B,191.0
+,Lawrence  Van der Meulen,M,,,26:50,8:57,38.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1610,,,537,L V d M,80.0
+,HUGH MCLENNAN,M,,,27:31,9:10,37.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1651,,,550,H M,130.0
+,KERRIE MCLENNAN,F,,,27:35,9:12,36.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1655,,,552,K M,242.0
+,Marshall  Campbell ,M,,,27:47,9:16,35.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1667,,,556,M C,286.0
+,Allison Campbell,F,,,27:47,9:16,34.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1667,,,556,A C,346.0
+,Murray Marsland,M,,,29:13,9:44,33.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,1753,,,584,M M,204.0
+,Kathleen March,F,,,33:27,11:09,32.0,ig1-0,Short,3,Pelaw Main ,2022-11-02,2007,,,669,K M,153.0
+,Mark Marsland,M,,,24:07,4:49,50.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1447,,,289,M M,335.0
+,Michael  Hay ,M,,,26:32,5:18,49.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1592,,,318,M H,324.0
+,Michael Hill,M,,,28:04,5:37,48.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1684,,,337,M H,141.0
+,Beau  Hunter,M,,,28:17,5:39,47.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1697,,,339,B H,282.0
+,Ann-Maree  Campbell ,F,,,28:19,5:40,46.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1699,,,340,A C,185.0
+,Greg Mullaly,M,,,28:22,5:40,45.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1702,,,340,G M,130.0
+,Fiona Reynolds,F,,,28:32,5:42,44.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1712,,,342,F R,408.0
+,Trey Hunter,M,,,31:05,6:13,43.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1865,,,373,T H,309.0
+,Kathleen Robinson,F,,,31:17,6:15,42.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1877,,,375,K R,355.0
+,Peter Blansjaar,M,,,31:25,6:17,41.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1885,,,377,P B,500.0
+,William Holland,M,,,31:31,6:18,40.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1891,,,378,W H,465.0
+,TONY FARNHAM,M,,,31:42,6:20,39.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1902,,,380,T F,208.0
+,Emma Nevin,F,,,32:13,6:27,38.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1933,,,387,E N,159.0
+,Nicole Schneeweiss,F,,,32:13,6:27,37.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1933,,,387,N S,115.0
+,Petro Holowinskyj,M,,,32:30,6:30,36.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1950,,,390,P H,438.0
+,Liam Mullaly,M,,,32:48,6:34,35.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,1968,,,394,L M,382.0
+,John Simmons,M,,,33:30,6:42,34.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2010,,,402,J S,257.0
+,Philip O'Hearn,M,,,33:32,6:42,33.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2012,,,402,P O,312.0
+,Sarah Tyrrell,F,,,33:44,6:45,32.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2024,,,405,S T,284.0
+,Geoff Hiscock,M,,,34:03,6:49,31.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2043,,,409,G H,233.0
+,Jessica Locock,F,,,34:23,6:53,30.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2063,,,413,J L,272.0
+,Sinead Mullaly,F,,,36:16,7:15,29.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2176,,,435,S M,353.0
+,Ella Gilbert,F,,,38:47,7:45,28.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2327,,,465,E G,156.0
+,Jennifer  Collado,F,,,38:47,7:45,27.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2327,,,465,J C,288.0
+,Melissa Hoffman,F,,,38:48,7:46,26.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2328,,,466,M H,328.0
+,Tony Howard,M,,,40:20,8:04,25.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2420,,,484,T H,278.0
+,Mellissa Mullaly,F,,,41:08,8:14,24.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2468,,,494,M M,333.0
+,Vicki O'Hearn,F,,,41:45,8:21,23.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2505,,,501,V O,100.0
+,Amanda O'Hearn,F,,,41:45,8:21,22.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2505,,,501,A O,210.0
+,Justine Manners,F,,,41:46,8:21,21.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,2506,,,501,J M,202.0
+,Peter Reynolds,M,,,50:27,10:05,20.0,ig1-1,Medium,5,Pelaw Main ,2022-11-02,3027,,,605,P R,183.0
+,Darren Layt,M,,,44:53,4:29,50.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,2693,,,269,D L,446.0
+,Shayne  Pilgrim ,M,,,45:57,4:36,49.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,2757,,,276,S P,337.0
+,Jeremy Campbell,M,,,45:58,4:36,48.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,2758,,,276,J C,488.0
+,Ethan  Fellows ,M,,,49:59,5:00,47.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,2999,,,300,E F,499.0
+,Melissa Ralph,F,,,50:27,5:03,46.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,3027,,,303,M R,508.0
+,Ian  Olsen,M,,,54:07,5:25,45.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,3247,,,325,I O,317.0
+,Chris Jardine,M,,,55:28,5:33,44.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,3328,,,333,C J,438.0
+,Sebastian Hoffman,M,,,56:37,5:40,43.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,3397,,,340,S H,339.0
+,Steve George,M,,,57:01,5:42,42.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,3421,,,342,S G,338.0
+,Daniel Woods,M,,,57:20,5:44,41.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,3440,,,344,D W,333.0
+,Rohan Vowles,M,,,1:00:18,6:02,40.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,3618,,,362,R V,336.0
+,Gordon Fox,M,,,1:10:00,7:00,39.0,ig1-2,Long,10,Pelaw Main ,2022-11-02,4200,,,420,G F,409.0
+,Jessica  Vanderkroft ,F,,,,,50.0,g1-3,,,Pelaw Main ,2022-11-02,,,,,J V,443.0
+,Alice Jackson,F,,,,,50.0,g1-3,,,Pelaw Main ,2022-11-02,,,,,A J,311.0
+,Neil Parfitt,M,,,,,50.0,g1-3,,,Pelaw Main ,2022-11-02,,,,,N P,96.0
+,Lewis Metcalfe,M,,,15:25,5:08,50.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,925,,,308,L M,398.0
+,Hazel  Metcalfe,F,,,15:43,5:14,49.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,943,,,314,H M,383.0
+,Timothy  Marsland,M,,,15:55,5:18,48.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,955,,,318,T M,241.0
+,Tess Madeley,F,,,18:10,6:03,47.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1090,,,363,T M,218.0
+,Keanan  Kinsley-Cook,M,,,18:43,6:14,46.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1123,,,374,K K,423.0
+,Declan Hunter,M,,,20:32,6:51,45.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1232,,,411,D H,362.0
+,Jessica  Vanderkroft ,F,,,21:17,7:06,44.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1277,,,426,J V,487.0
+,Finn McNeill,M,,,21:54,7:18,43.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1314,,,438,F M,299.0
+,Abbie Bagnall,F,,,22:07,7:22,42.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1327,,,442,A B,217.0
+,Katherine Morris,F,,,23:15,7:45,41.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1395,,,465,K M,82.0
+,Lawrence  Van der Meulen,M,,,23:48,7:56,40.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1428,,,476,L V d M,120.0
+,Louise McNeill,F,,,25:18,8:26,39.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1518,,,506,L M,228.0
+,Marshall  Campbell ,M,,,27:49,9:16,38.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1669,,,556,M C,324.0
+,Allison Campbell,F,,,27:50,9:17,37.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1670,,,557,A C,383.0
+,Murray Marsland,M,,,28:18,9:26,36.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1698,,,566,M M,240.0
+,Kathleen March,F,,,33:13,11:04,35.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,1993,,,664,K M,188.0
+,Luna McNeill,F,,,41:57,13:59,34.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,2517,,,839,L M,180.0
+,Abby Prater,F,,,41:58,13:59,33.0,ig1-0,Short,3,Pelaw Main ,2022-11-09,2518,,,839,A P,282.0
+,Bayden McNeill,M,,,23:36,4:43,50.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1416,,,283,B M,133.0
+,Ryan Prater,M,,,25:19,5:04,49.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1519,,,304,R P,143.0
+,Liam Mullaly,M,,,26:05,5:13,48.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1565,,,313,L M,430.0
+,Michael Hill,M,,,27:16,5:27,47.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1636,,,327,M H,188.0
+,Ann-Maree  Campbell ,F,,,27:24,5:29,46.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1644,,,329,A C,231.0
+,Fiona Reynolds,F,,,28:45,5:45,45.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1725,,,345,F R,453.0
+,Trey Hunter,M,,,30:26,6:05,44.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1826,,,365,T H,353.0
+,Alice Jackson,F,,,30:33,6:07,43.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1833,,,367,A J,354.0
+,Peter Blansjaar,M,,,31:00,6:12,42.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1860,,,372,P B,542.0
+,Emma Nevin,F,,,31:33,6:19,41.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1893,,,379,E N,200.0
+,Nicole Schneeweiss,F,,,31:37,6:19,40.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1897,,,379,N S,155.0
+,William Holland,M,,,31:51,6:22,39.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1911,,,382,W H,504.0
+,Geoff Hiscock,M,,,32:27,6:29,38.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1947,,,389,G H,271.0
+,Bonnie Lau,F,,,32:29,6:30,37.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1949,,,390,B L,74.0
+,Petro Holowinskyj,M,,,33:00,6:36,36.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,1980,,,396,P H,474.0
+,Sarah Tyrrell,F,,,33:23,6:41,35.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2003,,,401,S T,319.0
+,Philip O'Hearn,M,,,33:56,6:47,34.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2036,,,407,P O,346.0
+,KERRIE MCLENNAN,F,,,35:06,7:01,33.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2106,,,421,K M,275.0
+,Amanda O'Hearn,F,,,36:55,7:23,32.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2215,,,443,A O,242.0
+,Jennifer  Collado,F,,,37:29,7:30,31.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2249,,,450,J C,319.0
+,Sinead Mullaly,F,,,37:51,7:34,30.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2271,,,454,S M,383.0
+,Joanne Marsland,F,,,38:09,7:38,29.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2289,,,458,J M,149.0
+,Robert  Campbell,M,,,39:23,7:53,28.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2363,,,473,R C,332.0
+,Scott Campbell,M,,,39:28,7:54,27.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2368,,,474,S C,220.0
+,Tony Howard,M,,,39:49,7:58,26.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2389,,,478,T H,304.0
+,Julia Ryl,F,,,41:06,8:13,25.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2466,,,493,J R,340.0
+,Mellissa Mullaly,F,,,41:31,8:18,24.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2491,,,498,M M,357.0
+,Kathleen Robinson,F,,,41:32,8:18,23.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2492,,,498,K R,378.0
+,Katie Lawson,F,,,43:00,8:36,22.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2580,,,516,K L,70.0
+,Tracy Edwards,F,,,48:28,9:42,21.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2908,,,582,T E,151.0
+,Annette Doley,F,,,48:29,9:42,20.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,2909,,,582,A D,203.0
+,Kimberley Gulliver,F,,,51:20,10:16,19.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,3080,,,616,K G,111.0
+,Peter Reynolds,M,,,54:55,10:59,18.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,3295,,,659,P R,201.0
+,Neil Chappell,M,,,1:03:46,12:45,17.0,ig1-1,Medium,5,Pelaw Main ,2022-11-09,3826,,,765,N C,259.0
+,Darren Layt,M,,,44:59,4:30,50.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,2699,,,270,D L,496.0
+,Joseph O'Connor,M,,,45:34,4:33,49.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,2734,,,273,J O,49.0
+,Shayne  Pilgrim ,M,,,46:30,4:39,48.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,2790,,,279,S P,385.0
+,Mark Marsland,M,,,47:41,4:46,47.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,2861,,,286,M M,382.0
+,Weston Doley,M,,,47:51,4:47,46.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,2871,,,287,W D,281.0
+,Ethan  Fellows ,M,,,48:36,4:52,45.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,2916,,,292,E F,544.0
+,Jeremy Campbell,M,,,50:44,5:04,44.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3044,,,304,J C,532.0
+,Melissa Ralph,F,,,51:09,5:07,43.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3069,,,307,M R,551.0
+,Ian Robinson,M,,,51:34,5:09,42.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3094,,,309,I R,137.0
+,Jeremy  White,M,,,52:33,5:15,41.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3153,,,315,J W,380.0
+,Chris Jardine,M,,,53:52,5:23,40.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3232,,,323,C J,478.0
+,Michael  Hay ,M,,,54:33,5:27,39.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3273,,,327,M H,363.0
+,Greg Mullaly,M,,,55:09,5:31,38.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3309,,,331,G M,168.0
+,Samuel Gulliver,M,,,57:05,5:43,37.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3425,,,343,S G,37.0
+,Steve George,M,,,57:09,5:43,36.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3429,,,343,S G,374.0
+,Leilani Lawrence,F,,,58:50,5:53,35.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3530,,,353,L L,35.0
+,Rohan Vowles,M,,,59:03,5:54,34.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3543,,,354,R V,370.0
+,Rodney O'Connor,M,,,59:41,5:58,33.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,3581,,,358,R O,110.0
+,TONY FARNHAM,M,,,1:08:17,6:50,32.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,4097,,,410,T F,240.0
+,Gordon Fox,M,,,1:12:19,7:14,31.0,ig1-2,Long,10,Pelaw Main ,2022-11-09,4339,,,434,G F,440.0
+,Jessica Locock,F,,,,,50.0,g1-3,,,Pelaw Main ,2022-11-09,,,,,J L,322.0
+,Daniel Woods,M,,,,,50.0,g1-3,,,Pelaw Main ,2022-11-09,,,,,D W,383.0
+,Timothy  Marsland,M,18:09,3:00,15:09,5:03,99.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,909,1089,180,303,T M,340.0
+,Lewis Metcalfe,M,17:41,1:30,16:11,5:24,100.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,971,1061,90,324,L M,498.0
+,Keanan  Kinsley-Cook,M,19:36,0:30,19:06,6:22,98.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,1146,1176,30,382,K K,521.0
+,Hazel  Metcalfe,F,20:51,0:00,20:51,6:57,97.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,1251,1251,0,417,H M,480.0
+,Jessica  Vanderkroft ,F,21:05,0:00,21:05,7:02,96.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,1265,1265,0,422,J V,583.0
+,Lawrence  Van der Meulen,M,26:55,0:00,26:55,8:58,95.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,1615,1615,0,538,L V d M,215.0
+,Robert  Campbell,M,27:08,0:00,27:08,9:03,94.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,1628,1628,0,543,R C,426.0
+,Marshall  Campbell ,M,31:27,0:00,31:27,10:29,93.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,1887,1887,0,629,M C,417.0
+,Allison Campbell,F,31:29,0:00,31:29,10:30,92.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,1889,1889,0,630,A C,475.0
+,Justine Manners,F,36:20,0:00,36:20,12:07,91.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,2180,2180,0,727,J M,293.0
+,Kathleen March,F,36:23,0:00,36:23,12:08,90.0,ig1-0,Short,3,Pelaw Main ,2022-11-16,2183,2183,0,728,K M,278.0
+,Ryan Prater,M,27:23,2:45,24:38,4:56,100.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1478,1643,165,296,R P,243.0
+,Peter Blansjaar,M,30:17,1:15,29:02,5:48,98.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1742,1817,75,348,P B,640.0
+,Michael Hill,M,30:16,0:45,29:31,5:54,99.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1771,1816,45,354,M H,287.0
+,Kathleen Robinson,F,30:42,0:00,30:42,6:08,97.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1842,1842,0,368,K R,475.0
+,William Holland,M,31:23,0:15,31:08,6:14,96.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1868,1883,15,374,W H,600.0
+,Alice Jackson,F,31:49,0:30,31:19,6:16,95.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1879,1909,30,376,A J,449.0
+,John Simmons,M,32:08,0:00,32:08,6:26,94.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1928,1928,0,386,J S,351.0
+,Miles Cavanagh,M,32:29,0:00,32:29,6:30,93.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1949,1949,0,390,M C,93.0
+,Petro Holowinskyj,M,32:39,0:00,32:39,6:32,92.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1959,1959,0,392,P H,566.0
+,Sarah Tyrrell,F,33:13,0:00,33:13,6:39,91.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,1993,1993,0,399,S T,410.0
+,Liam Mullaly,M,34:59,0:00,34:59,7:00,90.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2099,2099,0,420,L M,520.0
+,Philip O'Hearn,M,36:00,0:00,36:00,7:12,89.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2160,2160,0,432,P O,435.0
+,Jessica Locock,F,37:08,0:00,37:08,7:26,88.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2228,2228,0,446,J L,410.0
+,Ella Gilbert,F,38:26,0:00,38:26,7:41,87.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2306,2306,0,461,E G,243.0
+,Jennifer  Collado,F,38:28,0:00,38:28,7:42,86.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2308,2308,0,462,J C,405.0
+,Melissa Hoffman,F,38:29,0:00,38:29,7:42,85.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2309,2309,0,462,M H,413.0
+,Mellissa Mullaly,F,39:58,0:00,39:58,8:00,84.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2398,2398,0,480,M M,441.0
+,Tony Howard,M,40:04,0:00,40:04,8:01,83.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2404,2404,0,481,T H,387.0
+,Vicki O'Hearn,F,42:30,0:00,42:30,8:30,82.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2550,2550,0,510,V O,182.0
+,Amanda O'Hearn,F,42:32,0:00,42:32,8:30,81.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2552,2552,0,510,A O,323.0
+,Christine Bates,F,43:36,0:00,43:36,8:43,80.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2616,2616,0,523,C B,356.0
+,Murray Marsland,M,49:09,0:00,49:09,9:50,79.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2949,2949,0,590,M M,319.0
+,Joanne Marsland,F,49:10,0:00,49:10,9:50,78.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,2950,2950,0,590,J M,227.0
+,Peter Reynolds,M,57:07,0:00,57:07,11:25,77.0,ig1-1,Medium,5,Pelaw Main ,2022-11-16,3427,3427,0,685,P R,278.0
+,Daniel Woods,M,58:25,14:30,43:55,4:24,98.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,2635,3505,870,264,D W,481.0
+,Shayne  Pilgrim ,M,1:02:51,18:15,44:36,4:28,93.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,2676,3771,1095,268,S P,478.0
+,Simon Gulliver,M,57:06,12:00,45:06,4:31,100.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,2706,3426,720,271,S G,359.0
+,Ethan  Fellows ,M,58:17,10:45,47:32,4:45,99.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,2852,3497,645,285,E F,643.0
+,Mark Marsland,M,1:03:40,16:00,47:40,4:46,90.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,2860,3820,960,286,M M,472.0
+,Melissa Ralph,F,1:01:45,13:15,48:30,4:51,94.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,2910,3705,795,291,M R,645.0
+,Sebastian Hoffman,M,59:08,9:45,49:23,4:56,97.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,2963,3548,585,296,S H,436.0
+,Jeremy Campbell,M,1:04:59,15:15,49:44,4:58,89.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,2984,3899,915,298,J C,621.0
+,Greg Mullaly,M,1:00:33,9:15,51:18,5:08,96.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,3078,3633,555,308,G M,264.0
+,Chris Jardine,M,1:02:57,8:45,54:12,5:25,92.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,3252,3777,525,325,C J,570.0
+,Rodney O'Connor,M,1:03:12,8:15,54:57,5:30,91.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,3297,3792,495,330,R O,201.0
+,Steve George,M,1:01:44,6:30,55:14,5:31,95.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,3314,3704,390,331,S G,469.0
+,Gordon Fox,M,1:08:46,0:00,1:08:46,6:53,88.0,ig1-2,Long,10,Pelaw Main ,2022-11-16,4126,4126,0,413,G F,528.0
+,Timothy  Marsland,M,,,14:31,4:50,50.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,871,,,290,T M,390.0
+,Keanan  Kinsley-Cook,M,,,16:51,5:37,49.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1011,,,337,K K,570.0
+,Michael  Hay ,M,,,18:01,6:00,48.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1081,,,360,M H,411.0
+,Hazel  Metcalfe,F,,,19:27,6:29,47.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1167,,,389,H M,527.0
+,Erica Jones-White,F,,,19:52,6:37,46.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1192,,,397,E J,161.0
+,Jeremy  White,M,,,19:57,6:39,45.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1197,,,399,J W,425.0
+,Finn McNeill,M,,,21:16,7:05,44.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1276,,,425,F M,343.0
+,Bayden McNeill,M,,,21:19,7:06,43.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1279,,,426,B M,176.0
+,Abbie Bagnall,F,,,21:29,7:10,42.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1289,,,430,A B,259.0
+,Robert  Campbell,M,,,23:16,7:45,41.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1396,,,465,R C,467.0
+,Allison Campbell,F,,,23:53,7:58,40.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1433,,,478,A C,515.0
+,Declan Hunter,M,,,24:57,8:19,39.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1497,,,499,D H,401.0
+,Marshall  Campbell ,M,,,25:04,8:21,38.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1504,,,501,M C,455.0
+,Scott Campbell,M,,,25:05,8:22,37.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1505,,,502,S C,257.0
+,Murray Marsland,M,,,26:43,8:54,36.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1603,,,534,M M,355.0
+,Kathleen March,F,,,31:49,10:36,35.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1909,,,636,K M,313.0
+,Kimberley Gulliver,F,,,31:50,10:37,34.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,1910,,,637,K G,145.0
+,Neil Chappell,M,,,45:16,15:05,33.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-23,2716,,,905,N C,292.0
+,Michael Hill,M,,,27:05,5:25,50.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1625,,,325,M H,337.0
+,Ian  Olsen,M,,,27:06,5:25,49.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1626,,,325,I O,366.0
+,Beau  Hunter,M,,,29:03,5:49,48.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1743,,,349,B H,330.0
+,Alice Jackson,F,,,29:18,5:52,47.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1758,,,352,A J,496.0
+,Ryan Prater,M,,,30:14,6:03,46.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1814,,,363,R P,289.0
+,Emma Nevin,F,,,30:52,6:10,45.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1852,,,370,E N,245.0
+,Nicole Schneeweiss,F,,,30:53,6:11,44.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1853,,,371,N S,199.0
+,Leslie Bates,M,,,30:56,6:11,43.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1856,,,371,L B,234.0
+,Petro Holowinskyj,M,,,31:39,6:20,42.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1899,,,380,P H,608.0
+,John Simmons,M,,,32:08,6:26,41.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,1928,,,386,J S,392.0
+,Trey Hunter,M,,,33:35,6:43,40.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2015,,,403,T H,393.0
+,Tony Howard,M,,,34:03,6:49,39.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2043,,,409,T H,426.0
+,Miles Cavanagh,M,,,34:37,6:55,38.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2077,,,415,M C,131.0
+,Philip O'Hearn,M,,,35:21,7:04,37.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2121,,,424,P O,472.0
+,Amanda O'Hearn,F,,,35:30,7:06,36.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2130,,,426,A O,359.0
+,Jessica Locock,F,,,35:50,7:10,35.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2150,,,430,J L,445.0
+,Ella Gilbert,F,,,37:56,7:35,34.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2276,,,455,E G,277.0
+,Jennifer  Collado,F,,,38:01,7:36,33.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2281,,,456,J C,438.0
+,Melissa Hoffman,F,,,38:02,7:36,32.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2282,,,456,M H,445.0
+,Sinead Mullaly,F,,,38:45,7:45,31.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2325,,,465,S M,414.0
+,Julia Ryl,F,,,39:07,7:49,30.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2347,,,469,J R,370.0
+,Liam Mullaly,M,,,39:41,7:56,29.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2381,,,476,L M,549.0
+,Mellissa Mullaly,F,,,40:46,8:09,28.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2446,,,489,M M,469.0
+,Christine Bates,F,,,43:03,8:37,27.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,2583,,,517,C B,383.0
+,Peter Reynolds,M,,,52:46,10:33,26.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-23,3166,,,633,P R,304.0
+,Daniel Woods,M,,,34:58,4:22,50.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2098,,,262,D W,531.0
+,Shayne  Pilgrim ,M,,,36:08,4:31,49.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2168,,,271,S P,527.0
+,Simon Gulliver,M,,,36:23,4:33,48.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2183,,,273,S G,407.0
+,Ethan  Fellows ,M,,,38:45,4:51,47.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2325,,,291,E F,690.0
+,Craig Murrell,M,,,40:41,5:05,46.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2441,,,305,C M,138.0
+,Melissa Ralph,F,,,40:44,5:06,45.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2444,,,306,M R,690.0
+,Mark Marsland,M,,,41:41,5:13,44.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2501,,,313,M M,516.0
+,Ian Robinson,M,,,42:21,5:18,43.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2541,,,318,I R,180.0
+,Greg Mullaly,M,,,43:31,5:26,42.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2611,,,326,G M,306.0
+,Sebastian Hoffman,M,,,43:42,5:28,41.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2622,,,328,S H,477.0
+,Jeremy Campbell,M,,,44:07,5:31,40.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2647,,,331,J C,661.0
+,Chris Jardine,M,,,44:21,5:33,39.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2661,,,333,C J,609.0
+,Rodney O'Connor,M,,,45:15,5:39,38.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2715,,,339,R O,239.0
+,Steve George,M,,,45:55,5:44,37.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2755,,,344,S G,506.0
+,Fiona Reynolds,F,,,46:35,5:49,36.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2795,,,349,F R,489.0
+,Kathleen Robinson,F,,,49:04,6:08,35.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,2944,,,368,K R,510.0
+,Rohan Vowles,M,,,50:02,6:15,34.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,3002,,,375,R V,404.0
+,TONY FARNHAM,M,,,50:19,6:17,33.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,3019,,,377,T F,273.0
+,Peter Blansjaar,M,,,52:43,6:35,32.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,3163,,,395,P B,672.0
+,Gordon Fox,M,,,59:34,7:27,31.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-23,3574,,,447,G F,559.0
+,Katherine Morris,F,,,,,50.0,g1-3,,,Kearsley Soccer Field ,2022-11-23,,,,,K M,132.0
+,Timothy  Marsland,M,,,14:31,4:50,50.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,871,,,290,T M,440.0
+,Isla Petersen,F,,,15:36,5:12,49.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,936,,,312,I P,187.0
+,Lewis Metcalfe,M,,,15:36,5:12,48.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,936,,,312,L M,546.0
+,Keanan  Kinsley-Cook,M,,,15:47,5:16,47.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,947,,,316,K K,617.0
+,Declan Hunter,M,,,16:44,5:35,46.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1004,,,335,D H,447.0
+,Tess Madeley,F,,,17:09,5:43,45.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1029,,,343,T M,263.0
+,Amy Petersen,F,,,17:50,5:57,44.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1070,,,357,A P,137.0
+,Hazel  Metcalfe,F,,,19:37,6:32,43.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1177,,,392,H M,570.0
+,Katherine Morris,F,,,20:16,6:45,42.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1216,,,405,K M,174.0
+,DAVID BROOKS,M,,,22:48,7:36,41.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1368,,,456,D B,292.0
+,Ella Gilbert,F,,,23:10,7:43,40.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1390,,,463,E G,317.0
+,Melissa Hoffman,F,,,23:17,7:46,39.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1397,,,466,M H,484.0
+,Christine Bates,F,,,23:19,7:46,38.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1399,,,466,C B,421.0
+,Robert  Campbell,M,,,24:17,8:06,37.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1457,,,486,R C,504.0
+,Marshall  Campbell ,M,,,27:02,9:01,36.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1622,,,541,M C,491.0
+,Allison Campbell,F,,,27:02,9:01,35.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1622,,,541,A C,550.0
+,Murray Marsland,M,,,28:23,9:28,34.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1703,,,568,M M,389.0
+,Kathleen March,F,,,32:48,10:56,33.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,1968,,,656,K M,346.0
+,Neil Chappell,M,,,34:49,11:36,32.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-11-30,2089,,,696,N C,324.0
+,Bayden McNeill,M,,,22:45,4:33,50.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1365,,,273,B M,226.0
+,Ryan Prater,M,,,24:09,4:50,49.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1449,,,290,R P,338.0
+,Ann-Maree  Campbell ,F,,,27:08,5:26,48.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1628,,,326,A C,279.0
+,Liam Mullaly,M,,,27:24,5:29,47.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1644,,,329,L M,596.0
+,Michael  Hay ,M,,,28:18,5:40,46.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1698,,,340,M H,457.0
+,Alice Jackson,F,,,29:01,5:48,45.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1741,,,348,A J,541.0
+,Trey Hunter,M,,,29:42,5:56,44.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1782,,,356,T H,437.0
+,Peter Blansjaar,M,,,30:08,6:02,43.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1808,,,362,P B,715.0
+,William Holland,M,,,30:16,6:03,42.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1816,,,363,W H,642.0
+,Petro Holowinskyj,M,,,31:16,6:15,41.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1876,,,375,P H,649.0
+,Miles Cavanagh,M,,,32:58,6:36,40.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1978,,,396,M C,171.0
+,Bonnie Lau,F,,,32:59,6:36,39.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,1979,,,396,B L,113.0
+,Amanda O'Hearn,F,,,34:14,6:51,38.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,2054,,,411,A O,397.0
+,Philip O'Hearn,M,,,34:20,6:52,37.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,2060,,,412,P O,509.0
+,Sinead Mullaly,F,,,36:47,7:21,36.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,2207,,,441,S M,450.0
+,Jennifer  Collado,F,,,37:08,7:26,35.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,2228,,,446,J C,473.0
+,Mellissa Mullaly,F,,,39:08,7:50,34.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,2348,,,470,M M,503.0
+,Julia Ryl,F,,,39:10,7:50,33.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,2350,,,470,J R,403.0
+,Geoff Hiscock,M,,,40:33,8:07,32.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,2433,,,487,G H,303.0
+,Beau  Hunter,M,,,41:07,8:13,31.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,2467,,,493,B H,361.0
+,Peter Reynolds,M,,,54:36,10:55,30.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-11-30,3276,,,655,P R,334.0
+,Daniel Woods,M,,,33:54,4:14,50.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2034,,,254,D W,581.0
+,Shayne  Pilgrim ,M,,,37:05,4:38,49.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2225,,,278,S P,576.0
+,Ethan  Fellows ,M,,,37:45,4:43,48.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2265,,,283,E F,738.0
+,Melissa Ralph,F,,,39:04,4:53,47.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2344,,,293,M R,737.0
+,Greg Mullaly,M,,,40:23,5:03,46.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2423,,,303,G M,352.0
+,Jeremy Campbell,M,,,40:27,5:03,45.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2427,,,303,J C,706.0
+,Michael Hill,M,,,42:43,5:20,44.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2563,,,320,M H,381.0
+,Ian  Olsen,M,,,42:43,5:20,43.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2563,,,320,I O,409.0
+,Chris Jardine,M,,,44:13,5:32,42.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2653,,,332,C J,651.0
+,Fiona Reynolds,F,,,44:37,5:35,41.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2677,,,335,F R,530.0
+,Steve George,M,,,45:01,5:38,40.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2701,,,338,S G,546.0
+,Rohan Vowles,M,,,46:28,5:49,39.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2788,,,349,R V,443.0
+,Kathleen Robinson,F,,,46:52,5:52,38.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2812,,,352,K R,548.0
+,TONY FARNHAM,M,,,49:02,6:08,37.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,2942,,,368,T F,310.0
+,John Simmons,M,,,54:04,6:46,36.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,3244,,,406,J S,428.0
+,Gordon Fox,M,,,56:16,7:02,35.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,3376,,,422,G F,594.0
+,Tony Howard,M,,,56:42,7:05,34.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-11-30,3402,,,425,T H,460.0
+,Joanne Marsland,F,,,,,50.0,g1-3,,,Kearsley Soccer Field ,2022-11-30,,,,,J M,277.0
+,Jeremy  White,M,,,,,50.0,g1-3,,,Kearsley Soccer Field ,2022-11-30,,,,,J W,475.0
+,Hayden Tyrrell,M,,,12:38,4:13,50.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-07,758,,,253,H T,200.0
+,Miles Cavanagh,M,,,15:40,5:13,49.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-07,940,,,313,M C,220.0
+,Keanan  Kinsley-Cook,M,,,18:19,6:06,48.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-07,1099,,,366,K K,665.0
+,Lawrence  Van der Meulen,M,,,20:40,6:53,47.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-07,1240,,,413,L V d M,262.0
+,Katherine Morris,F,,,20:42,6:54,46.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-07,1242,,,414,K M,220.0
+,Kathleen March,F,,,31:31,10:30,45.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-07,1891,,,630,K M,391.0
+,Katie Lawson,F,,,31:50,10:37,44.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-07,1910,,,637,K L,114.0
+,Murray Marsland,M,,,31:59,10:40,43.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-07,1919,,,640,M M,432.0
+,Neil Chappell,M,,,38:11,12:44,42.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-07,2291,,,764,N C,366.0
+,Ryan Prater,M,,,24:47,4:57,50.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,1487,,,297,R P,388.0
+,Trey Hunter,M,,,29:08,5:50,49.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,1748,,,350,T H,486.0
+,Michael  Hay ,M,,,29:50,5:58,48.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,1790,,,358,M H,505.0
+,Bonnie Lau,F,,,30:15,6:03,47.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,1815,,,363,B L,160.0
+,Liam Mullaly,M,,,32:00,6:24,46.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,1920,,,384,L M,642.0
+,Petro Holowinskyj,M,,,32:28,6:30,45.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,1948,,,390,P H,694.0
+,Geoff Hiscock,M,,,32:40,6:32,44.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,1960,,,392,G H,347.0
+,Sarah Tyrrell,F,,,32:54,6:35,43.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,1974,,,395,S T,453.0
+,Philip O'Hearn,M,,,33:50,6:46,42.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,2030,,,406,P O,551.0
+,Sinead Mullaly,F,,,35:04,7:01,41.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,2104,,,421,S M,491.0
+,Julia Ryl,F,,,36:51,7:22,40.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,2211,,,442,J R,443.0
+,Joanne Marsland,F,,,37:44,7:33,39.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,2264,,,453,J M,316.0
+,Mellissa Mullaly,F,,,38:21,7:40,38.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,2301,,,460,M M,541.0
+,Vicki O'Hearn,F,,,43:55,8:47,37.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,2635,,,527,V O,219.0
+,Amanda O'Hearn,F,,,43:56,8:47,36.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,2636,,,527,A O,433.0
+,Peter Reynolds,M,,,54:27,10:53,35.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,3267,,,653,P R,369.0
+,Fiona Reynolds,F,,,54:29,10:54,34.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-07,3269,,,654,F R,564.0
+,Jack Robinson,M,,,34:11,4:16,50.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2051,,,256,J R,200.0
+,Darren Layt,M,,,34:19,4:17,49.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2059,,,257,D L,545.0
+,Daniel Woods,M,,,34:52,4:22,48.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2092,,,262,D W,629.0
+,Shayne  Pilgrim ,M,,,36:20,4:33,47.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2180,,,273,S P,623.0
+,Ethan  Fellows ,M,,,38:31,4:49,46.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2311,,,289,E F,784.0
+,Michael Hill,M,,,41:09,5:09,45.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2469,,,309,M H,426.0
+,Mark Marsland,M,,,41:11,5:09,44.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2471,,,309,M M,560.0
+,Ian Robinson,M,,,41:21,5:10,43.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2481,,,310,I R,223.0
+,Greg Mullaly,M,,,42:24,5:18,42.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2544,,,318,G M,394.0
+,Ian  Olsen,M,,,42:29,5:19,41.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2549,,,319,I O,450.0
+,Jeremy  White,M,,,45:09,5:39,40.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2709,,,339,J W,515.0
+,Chris Jardine,M,,,45:56,5:45,39.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2756,,,345,C J,690.0
+,Steve George,M,,,46:02,5:45,38.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2762,,,345,S G,584.0
+,Kathleen Robinson,F,,,48:20,6:03,37.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2900,,,363,K R,585.0
+,TONY FARNHAM,M,,,49:29,6:11,36.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,2969,,,371,T F,346.0
+,William Holland,M,,,50:10,6:16,35.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,3010,,,376,W H,677.0
+,Gordon Fox,M,,,51:54,6:29,34.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,3114,,,389,G F,628.0
+,John Simmons,M,,,55:05,6:53,33.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,3305,,,413,J S,461.0
+,Tony Howard,M,,,55:32,6:57,32.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,3332,,,417,T H,492.0
+,Melissa Hoffman,F,,,56:40,7:05,31.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,3400,,,425,M H,515.0
+,Sebastian Hoffman,M,,,56:40,7:05,30.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,3400,,,425,S H,507.0
+,Jennifer  Collado,F,,,59:03,7:23,29.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-07,3543,,,443,J C,502.0
+,Justine Manners,F,,,,,50.0,g1-3,,,Kearsley Soccer Field ,2022-12-07,,,,,J M,343.0
+,Melissa Ralph,F,,,,,50.0,g1-3,,,Kearsley Soccer Field ,2022-12-07,,,,,M R,787.0
+,Jeremy  White,M,16:54,2:30,14:24,4:48,98.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,864,1014,150,288,J W,613.0
+,Keanan  Kinsley-Cook,M,17:53,1:45,16:08,5:23,97.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,968,1073,105,323,K K,762.0
+,Miles Cavanagh,M,16:31,0:00,16:31,5:30,100.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,991,991,0,330,M C,320.0
+,Erica Jones-White,F,16:54,0:00,16:54,5:38,99.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1014,1014,0,338,E J,260.0
+,Jessica  Vanderkroft ,F,19:17,0:00,19:17,6:26,96.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1157,1157,0,386,J V,679.0
+,Katherine Morris,F,20:00,0:00,20:00,6:40,95.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1200,1200,0,400,K M,315.0
+,Jessica Locock,F,20:14,0:00,20:14,6:45,94.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1214,1214,0,405,J L,539.0
+,Abbie Bagnall,F,20:15,0:00,20:15,6:45,93.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1215,1215,0,405,A B,352.0
+,Finn McNeill,M,24:06,0:00,24:06,8:02,92.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1446,1446,0,482,F M,435.0
+,Marshall  Campbell ,M,24:23,0:00,24:23,8:08,91.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1463,1463,0,488,M C,582.0
+,Allison Campbell,F,24:24,0:00,24:24,8:08,90.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1464,1464,0,488,A C,640.0
+,Christine Bates,F,24:34,0:00,24:34,8:11,89.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1474,1474,0,491,C B,510.0
+,Murray Marsland,M,30:59,0:00,30:59,10:20,88.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1859,1859,0,620,M M,520.0
+,Louise McNeill,F,31:18,0:00,31:18,10:26,87.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1878,1878,0,626,L M,315.0
+,Jennifer  Collado,F,32:19,0:00,32:19,10:46,86.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1939,1939,0,646,J C,588.0
+,Kathleen March,F,32:20,0:00,32:20,10:47,85.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1940,1940,0,647,K M,476.0
+,Justine Manners,F,32:21,0:00,32:21,10:47,84.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,1941,1941,0,647,J M,427.0
+,Neil Chappell,M,35:21,0:00,35:21,11:47,83.0,ig1-0,Short,3,Kearsley Soccer Field ,2022-12-14,2121,2121,0,707,N C,449.0
+,Ryan Prater,M,30:12,6:45,23:27,4:41,97.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1407,1812,405,281,R P,485.0
+,Trey Hunter,M,28:04,1:45,26:19,5:16,100.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1579,1684,105,316,T H,586.0
+,Michael  Hay ,M,32:33,4:30,28:03,5:37,92.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1683,1953,270,337,M H,597.0
+,Peter Blansjaar,M,29:28,1:15,28:13,5:39,98.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1693,1768,75,339,P B,813.0
+,Beau  Hunter,M,29:18,1:00,28:18,5:40,99.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1698,1758,60,340,B H,460.0
+,Fiona Reynolds,F,30:46,0:00,30:46,6:09,96.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1846,1846,0,369,F R,660.0
+,Petro Holowinskyj,M,31:46,0:15,31:31,6:18,95.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1891,1906,15,378,P H,789.0
+,Philip O'Hearn,M,32:10,0:00,32:10,6:26,94.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1930,1930,0,386,P O,645.0
+,Sarah Tyrrell,F,32:24,0:00,32:24,6:29,93.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1944,1944,0,389,S T,546.0
+,Melissa Hoffman,F,33:06,0:00,33:06,6:37,91.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,1986,1986,0,397,M H,606.0
+,Liam Mullaly,M,34:28,0:30,33:58,6:48,90.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,2038,2068,30,408,L M,732.0
+,Joanne Marsland,F,35:46,0:00,35:46,7:09,89.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,2146,2146,0,429,J M,405.0
+,Sinead Mullaly,F,36:51,0:00,36:51,7:22,88.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,2211,2211,0,442,S M,579.0
+,Julia Ryl,F,37:13,0:00,37:13,7:27,87.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,2233,2233,0,447,J R,530.0
+,Robert  Campbell,M,39:58,0:00,39:58,8:00,86.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,2398,2398,0,480,R C,590.0
+,Mellissa Mullaly,F,39:59,0:00,39:59,8:00,85.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,2399,2399,0,480,M M,626.0
+,Kimberley Gulliver,F,47:54,0:00,47:54,9:35,84.0,ig1-1,Medium,5,Kearsley Soccer Field ,2022-12-14,2874,2874,0,575,K G,229.0
+,Daniel Woods,M,48:52,14:45,34:07,4:16,98.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2047,2932,885,256,D W,727.0
+,Darren Layt,M,50:43,16:00,34:43,4:20,90.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2083,3043,960,260,D L,635.0
+,Ethan  Fellows ,M,49:58,13:30,36:28,4:34,94.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2188,2998,810,274,E F,878.0
+,Shayne  Pilgrim ,M,52:39,15:30,37:09,4:39,85.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2229,3159,930,279,S P,708.0
+,Mark Marsland,M,51:16,12:30,38:46,4:51,88.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2326,3076,750,291,M M,648.0
+,Melissa Ralph,F,50:56,12:00,38:56,4:52,89.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2336,3056,720,292,M R,876.0
+,Jack Robinson,M,55:56,16:15,39:41,4:58,80.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2381,3356,975,298,J R,280.0
+,Samuel Gulliver,M,49:28,9:15,40:13,5:02,97.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2413,2968,555,302,S G,134.0
+,Greg Mullaly,M,50:02,9:45,40:17,5:02,93.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2417,3002,585,302,G M,487.0
+,Michael Hill,M,50:04,8:45,41:19,5:10,92.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2479,3004,525,310,M H,518.0
+,Sebastian Hoffman,M,48:23,6:00,42:23,5:18,99.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2543,2903,360,318,S H,606.0
+,Jeremy Campbell,M,55:16,11:45,43:31,5:26,81.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2611,3316,705,326,J C,787.0
+,Chris Jardine,M,51:41,7:45,43:56,5:30,86.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2636,3101,465,330,C J,776.0
+,Leilani Lawrence,F,49:28,5:00,44:28,5:34,96.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2668,2968,300,334,L L,131.0
+,Steve George,M,51:35,6:45,44:50,5:36,87.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2690,3095,405,336,S G,671.0
+,Kathleen Robinson,F,47:45,1:00,46:45,5:51,100.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2805,2865,60,351,K R,685.0
+,Rohan Vowles,M,49:38,2:45,46:53,5:52,95.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2813,2978,165,352,R V,538.0
+,TONY FARNHAM,M,50:24,1:00,49:24,6:11,91.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,2964,3024,60,371,T F,437.0
+,Gordon Fox,M,52:47,0:00,52:47,6:36,84.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,3167,3167,0,396,G F,712.0
+,John Simmons,M,53:22,0:00,53:22,6:40,83.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,3202,3202,0,400,J S,544.0
+,Tony Howard,M,54:56,0:00,54:56,6:52,82.0,ig1-2,Long,8,Kearsley Soccer Field ,2022-12-14,3296,3296,0,412,T H,574.0
