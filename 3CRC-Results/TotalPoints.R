@@ -10,6 +10,12 @@
 library(shiny)
 library(ggplot2)
 library(dplyr)
+library(gghighlight)
+library(ggpubr)
+library(jpeg)
+library(ggimage)
+library(png)
+library(grid)
 #source('DataLoad.R')
 #df <- read.csv('./2022_23_Results.csv', stringsAsFactors = F)
 df <- df %>% rename ('AvgPaceS' = Avg.Pace..s.,
@@ -38,13 +44,21 @@ pointscore_plot <- function(athlete_filter, length_filter, date_filter) {
   ggplot(filtered_df, aes(x = Total.Points, 
                           y = reorder(Athlete.Name, Total.Points),
                           fill = ifelse(Athlete.Name == !!athlete_filter, 'Highlighted','Normal'))) +
-    geom_col() +
+    annotation_custom(rasterGrob(img, 
+                                 width = unit(1,"npc"), 
+                                 height = unit(1,"npc")), 
+                      -Inf, Inf, -Inf, Inf) +
+     geom_col() +
     theme(legend.position = "none", axis.title.y = element_blank()) 
 }
 pace_plot <- function(athlete_filter, length_filter) {
   filtered_df <-  df %>%
     filter(Athlete.Name == !!athlete_filter & Run.Length == !!length_filter  )
   ggplot(filtered_df) +
+    annotation_custom(rasterGrob(img, 
+                                 width = unit(1,"npc"), 
+                                 height = unit(1,"npc")), 
+                      -Inf, Inf, -Inf, Inf) +
     geom_line(aes(x = Run.Date, y = AvgPaceS ), size = 1.7 , group = 1, color = 'blue') +
     geom_line(aes(x = Run.Date, y = bestPaceS ), size = 1.7, group = 1, color = 'slategray2') +
     ylab('Avg Pace (s) / Best Pace') + xlab ('Run Date') +
@@ -56,8 +70,30 @@ runpoints_plot <- function(athlete_filter, length_filter, date_filter) {
   ggplot(filtered_df, aes(x = Points ,
                           y = reorder(Athlete.Name, Points),
                           fill = ifelse(Athlete.Name == !!athlete_filter, 'Highlighted','Normal'))) +
+    annotation_custom(rasterGrob(img, 
+                                 width = unit(1,"npc"), 
+                                 height = unit(1,"npc")), 
+                      -Inf, Inf, -Inf, Inf) +
     geom_col() +
     theme(legend.position = "none", axis.title.y = element_blank()) 
+}
+cumpoints_plot <- function(athlete_filter, length_filter) {
+  filtered_df <-  df %>%
+    filter( Run.Length == !!length_filter  ) %>%
+    mutate(Athlete.Name <- as.factor(Athlete.Name)) %>%
+    select(Athlete.Name, Run.Date, Total.Points)
+  
+  ggplot(filtered_df, aes(x = Run.Date, 
+                          y = Total.Points, 
+                                                    )) +
+    annotation_custom(rasterGrob(img, 
+                                 width = unit(1,"npc"), 
+                                 height = unit(1,"npc")), 
+                      -Inf, Inf, -Inf, Inf) +
+    geom_line(aes(color = Athlete.Name),group = 'Run.Date', size = 1.0) +
+    gghighlight(Athlete.Name == !!athlete_filter) +
+    ylab('Total Points') + xlab ('Run Date') +
+    theme(axis.text.x = element_text(angle = 45))
 }
 
 # Define UI for application that draws a histogram
@@ -97,6 +133,7 @@ ui <- fluidPage(
       tabsetPanel(
         tabPanel("Pointscore", plotOutput("minplot")), 
         tabPanel("Run Points", plotOutput("runpointsplot")),
+        tabPanel("Total Points", plotOutput("cumpointsplot")),
         tabPanel("Pace", plotOutput("paceplot")) 
 
       )
@@ -108,6 +145,7 @@ server <- function(input, output) {
   output$minplot <- renderPlot(pointscore_plot(input$Athlete, input$Length, input$Date))
   output$paceplot <- renderPlot(pace_plot(input$Athlete, input$Length))
   output$runpointsplot <- renderPlot(runpoints_plot(input$Athlete, input$Length, input$Date))
+  output$cumpointsplot <- renderPlot(cumpoints_plot(input$Athlete, input$Length))
   
   
 }

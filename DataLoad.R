@@ -1,7 +1,12 @@
 library("cowplot")
 library("gridExtra")
 library(ggplot2)
+library(dplyr)
+img <- readPNG(("3CRCLogo.png"))
 df <- read.csv('./2022_23_Results.csv', stringsAsFactors = F)
+
+
+
 df <- df[df$Avg.Pace != "0:00",]
 df <- df %>% rename ('AvgPaceS' = Avg.Pace..s.,
                      'RunTimeS' = Run.Time..s.,
@@ -31,3 +36,15 @@ ggplot(filtered_df, aes(x = Total.Points,
   
 
 
+filtered_df <-  df %>%
+  filter( Run.Length == 'Long'  ) %>%
+  mutate(Athlete.Name <- as.factor(Athlete.Name)) %>%
+  select(Athlete.Name, Run.Date, Total.Points)
+ggplot(filtered_df, aes(x = Run.Date, y = Total.Points, color = Athlete.Name )) +
+  annotation_custom(rasterGrob(img, 
+                               width = unit(1,"npc"), 
+                               height = unit(1,"npc")), 
+                    -Inf, Inf, -Inf, Inf) +
+  geom_line(aes(color = Athlete.Name),group = 'Run.Date' ) +
+  ylab('Total Points') + xlab ('Run Date') +
+  theme(axis.text.x = element_text(angle = 45))
